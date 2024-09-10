@@ -8,14 +8,6 @@
   --background-end-rgb: 255, 255, 255;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
 @layer utilities {
   .text-balance {
     text-wrap: balance;
@@ -25,5 +17,49 @@
 @layer base {
   :root {
     --radius: 0.5rem;
+  }
+
+  .gradient {
+    background: linear-gradient(90deg, #FF8254 0%, #FFB856 100%);
+  }
+
+  .gradient:hover {
+    background: linear-gradient(90deg, #DC734C 0%, #DC9F4E 100%);
+  }
+
+  .gradient:active {
+    background: linear-gradient(90deg, #B86444 0%, #B88745 100%);
+  }
+
+  .title {
+    @apply font-[700] text-[56px] leading-[68.15px]
+  }
+
+  .title-min {
+    @apply font-[800] text-[40px] leading-[40px]
+  }
+
+  .h1 {
+    @apply font-[800] text-[32px] leading-[32px]
+  }
+
+  .h2 {
+    @apply font-[800] text-[24px] leading-[30px]
+  }
+
+  .t1 {
+    @apply font-[800] text-[24px] leading-[24px]
+  }
+
+  .t2 {
+    @apply font-[400] text-[20px] leading-[24px]
+  }
+
+  .t3 {
+    @apply font-[400] text-[18px] leading-[24px]
+  }
+
+  .t-xs {
+    @apply font-[400] text-[14px] leading-[20px]
   }
 }

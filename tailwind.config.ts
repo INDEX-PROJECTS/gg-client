@@ -2,18 +2,29 @@ import type { Config } from 'tailwindcss';
 
 const config: Config = {
   content: ['./src/shared/components/**', './src/widgets/**', './app/**/*.{js,ts,jsx,tsx,mdx}'],
+  future: {
+    hoverOnlyWhenSupported: true,
+  },
   theme: {
+    fontFamily: {
+      ruda: ['var(--font-ruda)'],
+    },
+    colors: {
+      white: {
+        100: 'rgba(255, 255, 255, 1)',
+        200: 'rgba(247, 247, 247, 1)',
+        300: 'rgba(234, 234, 234, 1)',
+        400: 'rgba(194, 194, 194, 1)',
+      },
+      orange: 'rgba(255, 132, 84, 1)',
+      black: 'rgba(0, 0, 0, 1)',
+      backdrop: 'rgba(0, 0, 0, 0.4)',
+    },
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
       borderRadius: {
-        lg: 'var(--radius)',
-        md: 'calc(var(--radius) - 2px)',
-        sm: 'calc(var(--radius) - 4px)',
+        md: '32px',
+        sm: '16px',
       },
-      colors: {},
     },
   },
   plugins: [require('tailwindcss-animate')],
