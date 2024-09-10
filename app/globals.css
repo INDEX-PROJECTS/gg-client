@@ -25,7 +25,7 @@
   }
 
   body {
-    @apply flex flex-col w-full min-h-screen justify-around;
+    @apply flex flex-col w-full min-h-screen;
   }
 
   .gradient {
