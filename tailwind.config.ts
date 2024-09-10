@@ -17,7 +17,10 @@ const config: Config = {
         400: 'rgba(194, 194, 194, 1)',
       },
       orange: 'rgba(255, 132, 84, 1)',
-      black: 'rgba(0, 0, 0, 1)',
+      black: {
+        100: 'rgba(34, 34, 34, 1)',
+        200: 'rgba(0, 0, 0, 1)',
+      },
       backdrop: 'rgba(0, 0, 0, 0.4)',
     },
     extend: {
