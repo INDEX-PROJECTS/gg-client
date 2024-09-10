@@ -31,7 +31,7 @@ const Footer = () => {
               </div>
               <div className="flex flex-col gap-[4px]">
                 <h4 className="t-xs text-backdrop">E-mail</h4>
-                <Link href="mailto:guru-grupp@mail.ru" className="t1 text-black">
+                <Link href="mailto:guru-grupp@mail.ru" className="t1">
                   Guru-grupp@mail.ru
                 </Link>
               </div>
