@@ -48,17 +48,17 @@ const Footer = () => {
           <ul className="flex flex-col gap-[16px]">
             <li>
               <Button variant="link" asChild>
-                <Link href="">Каталог</Link>
+                <Link href="/#catalog">Каталог</Link>
               </Button>
             </li>
             <li>
               <Button variant="link" asChild>
-                <Link href="">О компании</Link>
+                <Link href="/#about">О компании</Link>
               </Button>
             </li>
             <li>
               <Button variant="link" asChild>
-                <Link href="">Преимущества</Link>
+                <Link href="/#advantages">Преимущества</Link>
               </Button>
             </li>
             <li>

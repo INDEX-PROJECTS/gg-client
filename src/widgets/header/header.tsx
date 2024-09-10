@@ -20,17 +20,17 @@ const Header = () => {
         <ul className="inline-flex gap-[40px] max-[768px]:gap-[24px]">
           <li>
             <Button variant="link" asChild className="max-[450px]:t-xs">
-              <Link href="">Каталог</Link>
+              <Link href="/#catalog">Каталог</Link>
             </Button>
           </li>
           <li className="max-[1200px]:hidden">
             <Button variant="link" asChild className="max-[450px]:t-xs">
-              <Link href="">О компании</Link>
+              <Link href="/#about">О компании</Link>
             </Button>
           </li>
           <li className="max-[1024px]:hidden">
             <Button variant="link" asChild className="max-[450px]:t-xs">
-              <Link href="">Преимущества</Link>
+              <Link href="/#advantages">Преимущества</Link>
             </Button>
           </li>
           <li>
