@@ -14,32 +14,32 @@ const Header = () => {
             <br />
             ГРУПП
           </h1>
-          <h1 className="h1 max-[400px]:t1 hidden max-[660px]:block max-[375px]:font-[800]">ГУРУ ГРУПП</h1>
+          <h1 className="h1 max-[450px]:t1 hidden max-[660px]:block max-[375px]:font-[800]">ГУРУ ГРУПП</h1>
         </Link>
 
         <ul className="inline-flex gap-[40px] max-[768px]:gap-[24px]">
           <li>
-            <Button variant="link" asChild className="max-[400px]:t-xs">
+            <Button variant="link" asChild className="max-[450px]:t-xs">
               <Link href="">Каталог</Link>
             </Button>
           </li>
           <li className="max-[1200px]:hidden">
-            <Button variant="link" asChild className="max-[400px]:t-xs">
+            <Button variant="link" asChild className="max-[450px]:t-xs">
               <Link href="">О компании</Link>
             </Button>
           </li>
           <li className="max-[1024px]:hidden">
-            <Button variant="link" asChild className="max-[400px]:t-xs">
+            <Button variant="link" asChild className="max-[450px]:t-xs">
               <Link href="">Преимущества</Link>
             </Button>
           </li>
           <li>
-            <Button variant="link" asChild className="max-[400px]:t-xs">
+            <Button variant="link" asChild className="max-[450px]:t-xs">
               <Link href="">Документация</Link>
             </Button>
           </li>
           <li>
-            <Button variant="link" className="max-[400px]:t-xs">
+            <Button variant="link" className="max-[450px]:t-xs">
               Корзина
             </Button>
           </li>
