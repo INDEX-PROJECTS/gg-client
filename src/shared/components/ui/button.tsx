@@ -11,6 +11,8 @@ const buttonVariants = cva(
       variant: {
         default:
           't2 gradient duration-700 text-white-100 rounded-sm py-[20px] px-[24px] disabled:bg-white-300 disabled:text-backdrop',
+        catalog:
+          'h2 gradient duration-700 text-white-100 rounded-sm py-[20px] px-[24px] disabled:bg-white-300 disabled:text-backdrop h-[193px] uppercase max-[450px]:h-[180px] max-[768px]:t1 max-[450px]:text-[22px] max-[450px]:leading-[26.77px]',
         icon: 'w-[30px] h-[30px]',
         backgroundIcon: 'bg-white-300 w-[40px] h-[40px] rounded-sm hover:bg-white-400',
         text: 't3 font-[700] hover:text-[rgba(0,0,0,0.7)] active:text-[rgba(0,0,0,0.5)]',
