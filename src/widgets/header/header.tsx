@@ -19,27 +19,27 @@ const Header = () => {
 
         <ul className="inline-flex gap-[40px] max-[768px]:gap-[24px]">
           <li>
-            <Button variant="link" asChild className="max-[375px]:t-xs">
+            <Button variant="link" asChild className="max-[400px]:t-xs">
               <Link href="">Каталог</Link>
             </Button>
           </li>
           <li className="max-[1200px]:hidden">
-            <Button variant="link" asChild className="max-[375px]:t-xs">
+            <Button variant="link" asChild className="max-[400px]:t-xs">
               <Link href="">О компании</Link>
             </Button>
           </li>
           <li className="max-[1024px]:hidden">
-            <Button variant="link" asChild className="max-[375px]:t-xs">
+            <Button variant="link" asChild className="max-[400px]:t-xs">
               <Link href="">Преимущества</Link>
             </Button>
           </li>
           <li>
-            <Button variant="link" asChild className="max-[375px]:t-xs">
+            <Button variant="link" asChild className="max-[400px]:t-xs">
               <Link href="">Документация</Link>
             </Button>
           </li>
           <li>
-            <Button variant="link" className="max-[375px]:t-xs">
+            <Button variant="link" className="max-[400px]:t-xs">
               Корзина
             </Button>
           </li>
