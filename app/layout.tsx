@@ -1,3 +1,4 @@
+import Footer from '@/src/widgets/footer/footer';
 import Header from '@/src/widgets/header/header';
 import type { Metadata } from 'next';
 import { Ruda } from 'next/font/google';
@@ -24,6 +25,7 @@ export default function RootLayout({
       <body className={`${ruda.variable} font-sans`}>
         <Header />
         {children}
+        <Footer />
       </body>
     </html>
   );
