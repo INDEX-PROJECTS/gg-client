@@ -14,7 +14,7 @@ const Header = () => {
             <br />
             ГРУПП
           </h1>
-          <h1 className="h1 max-[375px]:t1 hidden max-[660px]:block max-[375px]:font-[800]">ГУРУ ГРУПП</h1>
+          <h1 className="h1 max-[400px]:t1 hidden max-[660px]:block max-[375px]:font-[800]">ГУРУ ГРУПП</h1>
         </Link>
 
         <ul className="inline-flex gap-[40px] max-[768px]:gap-[24px]">

@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <main className="flex h-full w-full flex-col gap-[80px]">
+    <main className="flex h-full w-full flex-col gap-[80px] max-[768px]:gap-[40px] max-[400px]:gap-[24px]">
       <section className="flex flex-col gap-[8px] text-white-100 max-[400px]:gap-[4px]">
         <div className="flex gap-[8px] max-[890px]:flex-col max-[400px]:gap-[4px]">
           <div className="bg-black-100 flex h-[80px] w-full min-w-[570px] grow-0 items-center gap-[12px] rounded-l-md rounded-r-sm px-[24px] max-[890px]:min-w-0 max-[890px]:justify-center max-[890px]:rounded-md max-[890px]:text-center max-[400px]:h-[64px]">
@@ -40,8 +40,8 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="flex flex-col gap-[24px]">
-        <h1 className="title">Каталог</h1>
+      <section className="flex flex-col gap-[24px] max-[400px]:gap-[16px]">
+        <h1 className="title max-[400px]:h1">Каталог товаров</h1>
         <div className="grid w-full grid-cols-4 gap-[16px] max-[1070px]:grid-cols-2 max-[568px]:grid-cols-1 max-[400px]:gap-[4px]">
           <Button asChild className="h-[193px] uppercase max-[400px]:h-[180px]">
             <Link href="">Электродвигатели</Link>
