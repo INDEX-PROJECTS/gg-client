@@ -19,12 +19,17 @@
     --radius: 0.5rem;
   }
 
-  html, body {
-    @apply font-ruda
+  html,
+  body {
+    @apply font-ruda;
+  }
+
+  body {
+    @apply px-[48px] max-[500px]:px-[15px];
   }
 
   .gradient {
-    background-image: linear-gradient(90deg, #FF8254 0%, #FFB856 100%);
+    background-image: linear-gradient(90deg, #ff8254 0%, #ffb856 100%);
     position: relative;
     z-index: 1;
     overflow: hidden;
@@ -35,8 +40,8 @@
   }
 
   .gradient::after {
-    background: linear-gradient(90deg, #DC734C 0%, #DC9F4E 100%);
-    content: "";
+    background: linear-gradient(90deg, #dc734c 0%, #dc9f4e 100%);
+    content: '';
     position: absolute;
     z-index: -2;
     top: 0;
@@ -48,8 +53,8 @@
   }
 
   .gradient::before {
-    background: linear-gradient(90deg, #B86444 0%, #B88745 100%);
-    content: "";
+    background: linear-gradient(90deg, #b86444 0%, #b88745 100%);
+    content: '';
     position: absolute;
     z-index: -1;
     top: 0;
@@ -59,7 +64,7 @@
     opacity: 0;
   }
 
-  .gradient:hover::after{
+  .gradient:hover::after {
     opacity: 1;
   }
 
@@ -68,34 +73,34 @@
   }
 
   .title {
-    @apply font-[700] text-[56px] leading-[68.15px]
+    @apply text-[56px] font-[700] leading-[68.15px];
   }
 
   .title-min {
-    @apply font-[800] text-[40px] leading-[40px]
+    @apply text-[40px] font-[800] leading-[40px];
   }
 
   .h1 {
-    @apply font-[800] text-[32px] leading-[32px]
+    @apply text-[32px] font-[800] leading-[32px];
   }
 
   .h2 {
-    @apply font-[800] text-[24px] leading-[30px]
+    @apply text-[24px] font-[800] leading-[30px];
   }
 
   .t1 {
-    @apply font-[700] text-[24px] leading-[24px]
+    @apply text-[24px] font-[700] leading-[24px];
   }
 
   .t2 {
-    @apply font-[400] text-[20px] leading-[24px]
+    @apply text-[20px] font-[400] leading-[24px];
   }
 
   .t3 {
-    @apply font-[400] text-[18px] leading-[24px]
+    @apply text-[18px] font-[400] leading-[24px];
   }
 
   .t-xs {
-    @apply font-[400] text-[14px] leading-[20px]
+    @apply text-[14px] font-[400] leading-[20px];
   }
 }
