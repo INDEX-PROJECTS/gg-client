@@ -19,16 +19,52 @@
     --radius: 0.5rem;
   }
 
+  html, body {
+    @apply font-ruda
+  }
+
   .gradient {
-    background: linear-gradient(90deg, #FF8254 0%, #FFB856 100%);
+    background-image: linear-gradient(90deg, #FF8254 0%, #FFB856 100%);
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
   }
 
-  .gradient:hover {
+  .gradient:disabled {
+    background: rgba(234, 234, 234, 1);
+  }
+
+  .gradient::after {
     background: linear-gradient(90deg, #DC734C 0%, #DC9F4E 100%);
+    content: "";
+    position: absolute;
+    z-index: -2;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.25s;
   }
 
-  .gradient:active {
+  .gradient::before {
     background: linear-gradient(90deg, #B86444 0%, #B88745 100%);
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+  }
+
+  .gradient:hover::after{
+    opacity: 1;
+  }
+
+  .gradient:active::before {
+    opacity: 1;
   }
 
   .title {
@@ -48,7 +84,7 @@
   }
 
   .t1 {
-    @apply font-[800] text-[24px] leading-[24px]
+    @apply font-[700] text-[24px] leading-[24px]
   }
 
   .t2 {
