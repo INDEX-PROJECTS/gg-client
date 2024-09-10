@@ -13,6 +13,7 @@ const buttonVariants = cva(
           't2 gradient duration-700 text-white-100 rounded-sm py-[20px] px-[24px] disabled:bg-white-300 disabled:text-backdrop',
         icon: 'w-[30px] h-[30px]',
         backgroundIcon: 'bg-white-300 w-[40px] h-[40px] rounded-sm hover:bg-white-400',
+        text: 't3 font-[700] hover:text-[rgba(0,0,0,0.7)] active:text-[rgba(0,0,0,0.5)]',
       },
     },
     defaultVariants: {
