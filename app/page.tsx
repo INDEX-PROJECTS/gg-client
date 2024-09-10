@@ -6,13 +6,13 @@ import Link from 'next/link';
 export default function Home() {
   return (
     <main className="flex h-full w-full flex-col gap-[80px] max-[768px]:gap-[40px] max-[450px]:gap-[24px]">
-      <section className="flex flex-col gap-[8px] text-white-100 max-[450px]:gap-[4px]">
+      <section className="flex flex-col gap-[8px] text-white-100 max-[450px]:gap-[4px]" id="promo">
         <div className="flex gap-[8px] max-[890px]:flex-col max-[450px]:gap-[4px]">
-          <div className="bg-black-100 flex h-[80px] w-full min-w-[570px] grow-0 items-center gap-[12px] rounded-l-md rounded-r-sm px-[24px] max-[890px]:min-w-0 max-[890px]:justify-center max-[890px]:rounded-md max-[890px]:text-center max-[450px]:h-[64px]">
+          <div className="flex h-[80px] w-full min-w-[570px] grow-0 items-center gap-[12px] rounded-l-md rounded-r-sm bg-black-100 px-[24px] max-[890px]:min-w-0 max-[890px]:justify-center max-[890px]:rounded-md max-[890px]:text-center max-[450px]:h-[64px]">
             <GeoIcon className="max-[890px]:hidden" />
             <h3 className="t2 max-[450px]:t-xs">г. Челябинск, ул. молодогвардейцев 60в, оф. 505</h3>
           </div>
-          <div className="bg-black-100 flex h-[80px] w-full max-w-[320px] flex-col items-end justify-center gap-[4px] rounded-sm rounded-l-sm rounded-r-md px-[24px] max-[890px]:w-full max-[890px]:max-w-full max-[890px]:items-center max-[890px]:rounded-md max-[450px]:h-[64px]">
+          <div className="flex h-[80px] w-full max-w-[320px] flex-col items-end justify-center gap-[4px] rounded-sm rounded-l-sm rounded-r-md bg-black-100 px-[24px] max-[890px]:w-full max-[890px]:max-w-full max-[890px]:items-center max-[890px]:rounded-md max-[450px]:h-[64px]">
             <Link href="tel:+79191232395" className="t2 max-[450px]:t-xs">
               8 (919) 123-23-95
             </Link>
@@ -22,7 +22,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="bg-black-100 flex w-full gap-[24px] rounded-md p-[24px] text-white-100 max-[1024px]:flex-col-reverse">
+        <div className="flex w-full gap-[24px] rounded-md bg-black-100 p-[24px] text-white-100 max-[1024px]:flex-col-reverse">
           <div className="flex max-w-[630px] shrink-0 flex-col justify-between max-[1024px]:max-w-full max-[1024px]:items-center max-[1024px]:gap-[40px]">
             <div className="flex flex-col gap-[56px] max-[1024px]:gap-[24px] max-[450px]:gap-[8px]">
               <h1 className="title max-[718px]:h1 text-center uppercase max-[450px]:text-[22px] max-[450px]:leading-[26.77px]">
@@ -40,7 +40,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="flex flex-col gap-[24px] max-[450px]:gap-[16px]">
+      <section className="flex flex-col gap-[24px] max-[450px]:gap-[16px]" id="catalog">
         <h1 className="title max-[450px]:h1">Каталог товаров</h1>
         <div className="grid w-full grid-cols-4 gap-[16px] max-[1245px]:grid-cols-2 max-[670px]:grid-cols-1 max-[450px]:gap-[4px]">
           <Button asChild variant="catalog">
@@ -70,7 +70,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="flex flex-col gap-[24px] max-[450px]:gap-[16px]">
+      <section className="flex flex-col gap-[24px] max-[450px]:gap-[16px]" id="about">
         <h1 className="title max-[450px]:h1">О компании</h1>
         <div className="w-full rounded-md bg-white-200 p-[24px]">
           <p className="t2 max-[450px]:t-xs">
@@ -82,12 +82,12 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="flex flex-col gap-[24px] max-[450px]:gap-[16px]">
+      <section className="flex flex-col gap-[24px] max-[450px]:gap-[16px]" id="advantages">
         <h1 className="title max-[450px]:h1">Наши преимущества</h1>
         <div className="grid w-full [grid-template-areas:'first_third''second_fourth'] max-[1205px]:[grid-template-areas:'first''second''third''fourth']">
           <div className="flex [grid-area:first]">
             <div className="h-[384px] w-full border border-x-0 border-white-400 p-[24px] max-[618px]:hidden">
-              <span className="text-orange title-min">[01]</span>
+              <span className="title-min text-orange">[01]</span>
             </div>
 
             <div className="flex h-[384px] w-full flex-col gap-[16px] border border-white-400 p-[24px] max-[1205px]:border-r-0 max-[618px]:h-auto max-[618px]:border-x max-[618px]:border-y-0">
@@ -103,7 +103,7 @@ export default function Home() {
 
           <div className="flex flex-row-reverse [grid-area:second]">
             <div className="h-[384px] w-full border border-white-400 p-[24px] max-[1205px]:border-r-0 max-[618px]:hidden">
-              <span className="text-orange title-min">[02]</span>
+              <span className="title-min text-orange">[02]</span>
             </div>
 
             <div className="flex h-[384px] w-full flex-col gap-[16px] border border-x-0 border-white-400 p-[24px] max-[618px]:h-auto max-[618px]:border-x max-[618px]:border-b-0">
@@ -117,7 +117,7 @@ export default function Home() {
 
           <div className="flex [grid-area:third]">
             <div className="h-[384px] w-full border border-l-0 border-white-400 p-[24px] max-[618px]:hidden">
-              <span className="text-orange title-min">[03]</span>
+              <span className="title-min text-orange">[03]</span>
             </div>
 
             <div className="flex h-[384px] w-full flex-col gap-[16px] border border-x-0 border-white-400 p-[24px] max-[618px]:h-auto max-[618px]:border-x">
@@ -133,7 +133,7 @@ export default function Home() {
 
           <div className="flex flex-row-reverse [grid-area:fourth]">
             <div className="h-[384px] w-full border border-x-0 border-white-400 p-[24px] max-[618px]:hidden">
-              <span className="text-orange title-min">[04]</span>
+              <span className="title-min text-orange">[04]</span>
             </div>
 
             <div className="flex h-[384px] w-full flex-col gap-[16px] border border-l-0 border-white-400 p-[24px] max-[618px]:h-auto max-[618px]:border-x max-[618px]:border-y-0">
