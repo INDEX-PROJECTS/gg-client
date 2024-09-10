@@ -1,3 +1,4 @@
+import MainContainer from '@/src/shared/components/mainContainer/mainContainer';
 import Footer from '@/src/widgets/footer/footer';
 import Header from '@/src/widgets/header/header';
 import type { Metadata } from 'next';
@@ -24,7 +25,11 @@ export default function RootLayout({
     <html lang="ru">
       <body className={`${ruda.variable} font-sans`}>
         <Header />
-        {children}
+        <MainContainer className="flex-grow">
+          <main className="h-full w-full pb-[80px] pt-[48px] max-[660px]:pb-[40px] max-[660px]:pt-[24px]">
+            {children}
+          </main>
+        </MainContainer>
         <Footer />
       </body>
     </html>
