@@ -21,7 +21,7 @@
 
   html,
   body {
-    @apply font-ruda;
+    @apply font-ruda scroll-smooth;
   }
 
   body {
@@ -70,6 +70,18 @@
 
   .gradient:active::before {
     opacity: 1;
+  }
+
+  .error-title {
+    @apply text-[72px] font-[700] leading-[84px] tracking-[-0.0041em];
+  }
+
+  .error-title-min {
+    @apply text-[32px] font-[700] leading-[40px];
+  }
+
+  .error-subtitle {
+    @apply text-[22px] font-[400] leading-[30px] tracking-[-0.0012em] text-white-400;
   }
 
   .title {
