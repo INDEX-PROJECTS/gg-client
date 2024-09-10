@@ -77,15 +77,15 @@
   }
 
   .title-min {
-    @apply text-[40px] font-[800] leading-[40px];
+    @apply text-[40px] font-[700] leading-[40px];
   }
 
   .h1 {
-    @apply text-[32px] font-[800] leading-[32px];
+    @apply text-[32px] font-[700] leading-[32px];
   }
 
   .h2 {
-    @apply text-[24px] font-[800] leading-[30px];
+    @apply text-[24px] font-[700] leading-[30px];
   }
 
   .t1 {
