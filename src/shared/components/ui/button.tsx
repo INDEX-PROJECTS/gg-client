@@ -14,6 +14,7 @@ const buttonVariants = cva(
         icon: 'w-[30px] h-[30px]',
         backgroundIcon: 'bg-white-300 w-[40px] h-[40px] rounded-sm hover:bg-white-400',
         text: 't3 font-[700] hover:text-[rgba(0,0,0,0.7)] active:text-[rgba(0,0,0,0.5)]',
+        link: 't2 hover:text-[rgba(0,0,0,0.7)] active:text-[rgba(0,0,0,0.5)] max-[375px]:t-xs',
       },
     },
     defaultVariants: {
