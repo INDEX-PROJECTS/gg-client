@@ -1,4 +1,3 @@
-import MainContainer from '@/src/shared/components/mainContainer/mainContainer';
 import Header from '@/src/widgets/header/header';
 import type { Metadata } from 'next';
 import { Ruda } from 'next/font/google';
@@ -23,10 +22,8 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <body className={`${ruda.variable} font-sans`}>
-        <MainContainer>
-          <Header />
-          {children}
-        </MainContainer>
+        <Header />
+        {children}
       </body>
     </html>
   );
