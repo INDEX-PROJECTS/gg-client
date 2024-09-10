@@ -6,7 +6,7 @@ import Link from 'next/link';
 const Header = () => {
   return (
     <MainContainer>
-      <header className="mb-[48px] mt-[26px] flex w-full flex-row items-center justify-between max-[660px]:mt-[15px] max-[660px]:flex-col max-[660px]:gap-[15px]">
+      <header className="mt-[26px] flex w-full flex-row items-center justify-between max-[660px]:mt-[15px] max-[660px]:flex-col max-[660px]:gap-[15px]">
         <Link href="/" className="flex items-center gap-[24px] max-[660px]:flex-col max-[660px]:gap-[8px]">
           <Logo className="h-[72px] w-[72px] max-[375px]:h-[40px] max-[375px]:w-[40px]" />
           <h1 className="h1 max-[660px]:hidden">
