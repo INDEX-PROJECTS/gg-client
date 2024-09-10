@@ -25,10 +25,8 @@ export default function RootLayout({
     <html lang="ru">
       <body className={`${ruda.variable} font-sans`}>
         <Header />
-        <MainContainer className="flex-grow">
-          <main className="h-full w-full pb-[80px] pt-[48px] max-[660px]:pb-[40px] max-[660px]:pt-[24px]">
-            {children}
-          </main>
+        <MainContainer className="flex-grow pb-[80px] pt-[48px] max-[660px]:pb-[40px] max-[660px]:pt-[24px]">
+          {children}
         </MainContainer>
         <Footer />
       </body>
