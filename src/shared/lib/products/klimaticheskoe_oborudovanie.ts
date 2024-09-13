@@ -544,7 +544,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Виброизолятор в сборе - 1 шт.;\nШайба - 2 шт.;\nПрокладка - 1 шт.',
     price: '451',
     vendorCode: '03.07.000011',
-    image: '/klimaticheskoe-oborudovanie/4677.png',
+    image: '/klimaticheskoe_oborudovanie/4677.png',
   },
   {
     id: 4678,
@@ -576,7 +576,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Виброизолятор в сборе - 1 шт.;\nШайба - 2 шт.;\nПрокладка - 1 шт.',
     price: '503',
     vendorCode: '03.07.000001',
-    image: '/klimaticheskoe-oborudovanie/4681.png',
+    image: '/klimaticheskoe_oborudovanie/4681.png',
   },
   {
     id: 4682,
@@ -648,7 +648,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Виброизолятор в сборе - 1 шт.;\nШайба - 2 шт.;\nПрокладка - 1 шт.',
     price: '655',
     vendorCode: '03.07.000002',
-    image: '/klimaticheskoe-oborudovanie/4690.png',
+    image: '/klimaticheskoe_oborudovanie/4690.png',
   },
   {
     id: 4691,
@@ -728,7 +728,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Виброизолятор в сборе - 1 шт.;\nШайба - 2 шт.;\nПрокладка - 1 шт.',
     price: '787',
     vendorCode: '03.07.000003',
-    image: '/klimaticheskoe-oborudovanie/4700.png',
+    image: '/klimaticheskoe_oborudovanie/4700.png',
   },
   {
     id: 4701,
@@ -777,7 +777,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электровентилятор осевой канальный бытовой предназначен для удаления неприятных запахов и лишней влаги из туалетных, ванных комнат, а так же из других небольших помещений, нуждающихся в вентиляции.',
     price: '873',
     vendorCode: '03.05.218580',
-    image: '/klimaticheskoe-oborudovanie/4706.png',
+    image: '/klimaticheskoe_oborudovanie/4706.png',
   },
   {
     id: 4707,
@@ -802,7 +802,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электровентилятор осевой канальный бытовой предназначен для удаления неприятных запахов и лишней влаги из туалетных, ванных комнат, а так же из других небольших помещений, нуждающихся в вентиляции.',
     price: '912',
     vendorCode: '03.05.218578',
-    image: '/klimaticheskoe-oborudovanie/4709.png',
+    image: '/klimaticheskoe_oborudovanie/4709.png',
   },
   {
     id: 4710,
@@ -851,7 +851,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электровентилятор осевой канальный бытовой предназначен для удаления неприятных запахов и лишней влаги из туалетных, ванных комнат, а так же из других небольших помещений, нуждающихся в вентиляции.',
     price: '967',
     vendorCode: '03.05.218586',
-    image: '/klimaticheskoe-oborudovanie/4715.png',
+    image: '/klimaticheskoe_oborudovanie/4715.png',
   },
   {
     id: 4716,
@@ -876,7 +876,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор в сборе - 1 шт.;\nПаспорт/Инструкция по эксплуатации - 1 шт.;\nКоробка упаковочная - 1 шт.;\nДюбель с саморезом - 4 шт. (для крепления вентиляторов);\nСаморезы - 2 шт. (для крепления скобы);\nСкоба - 1 шт.',
     price: '995',
     vendorCode: '03.05.218581',
-    image: '/klimaticheskoe-oborudovanie/4718.png',
+    image: '/klimaticheskoe_oborudovanie/4718.png',
   },
   {
     id: 4719,
@@ -885,7 +885,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор в сборе - 1 шт.;\nПаспорт/Инструкция по эксплуатации - 1 шт.;\nКоробка упаковочная - 1 шт.;\nДюбель с саморезом - 4 шт. (для крепления вентиляторов);\nСаморезы - 2 шт. (для крепления скобы);\nСкоба - 1 шт.',
     price: '1009',
     vendorCode: '03.05.218579',
-    image: '/klimaticheskoe-oborudovanie/4719.png',
+    image: '/klimaticheskoe_oborudovanie/4719.png',
   },
   {
     id: 4720,
@@ -965,7 +965,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Виброизолятор в сборе - 1 шт.;\nШайба - 2 шт.;\nПрокладка - 1 шт.',
     price: '1104',
     vendorCode: '03.07.000006',
-    image: '/klimaticheskoe-oborudovanie/4729.png',
+    image: '/klimaticheskoe_oborudovanie/4729.png',
   },
   {
     id: 4730,
@@ -974,7 +974,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электровентилятор осевой канальный бытовой предназначен для удаления неприятных запахов и лишней влаги из туалетных, ванных комнат, а так же из других небольших помещений, нуждающихся в вентиляции.',
     price: '1106',
     vendorCode: '03.05.218588',
-    image: '/klimaticheskoe-oborudovanie/4730.png',
+    image: '/klimaticheskoe_oborudovanie/4730.png',
   },
   {
     id: 4731,
@@ -999,7 +999,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор в сборе - 1 шт.;\nПаспорт/Инструкция по эксплуатации - 1 шт.;\nКоробка упаковочная - 1 шт.;\nДюбель с саморезом - 4 шт. (для крепления вентиляторов);\nСаморезы - 2 шт. (для крепления скобы);\nСкоба - 1 шт.',
     price: '1137',
     vendorCode: '03.05.218587',
-    image: '/klimaticheskoe-oborudovanie/4733.png',
+    image: '/klimaticheskoe_oborudovanie/4733.png',
   },
   {
     id: 4734,
@@ -1008,7 +1008,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор в сборе - 1 шт.;\nПаспорт/Инструкция по эксплуатации - 1 шт.;\nКоробка упаковочная - 1 шт.;\nДюбель с саморезом - 4 шт. (для крепления вентиляторов);\nСаморезы - 2 шт. (для крепления скобы);\nСкоба - 1 шт.',
     price: '1139',
     vendorCode: '03.05.218584',
-    image: '/klimaticheskoe-oborudovanie/4734.png',
+    image: '/klimaticheskoe_oborudovanie/4734.png',
   },
   {
     id: 4735,
@@ -1073,7 +1073,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор в сборе - 1 шт.;\nПаспорт/Инструкция по эксплуатации - 1 шт.;\nКоробка упаковочная - 1 шт.;\nДюбель с саморезом - 4 шт. (для крепления вентиляторов);\nСаморезы - 2 шт. (для крепления скобы);\nСкоба - 1 шт.',
     price: '1183',
     vendorCode: '03.05.218582',
-    image: '/klimaticheskoe-oborudovanie/4742.png',
+    image: '/klimaticheskoe_oborudovanie/4742.png',
   },
   {
     id: 4743,
@@ -1098,7 +1098,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор в сборе - 1 шт.;\nПаспорт/Инструкция по эксплуатации - 1 шт.;\nКоробка упаковочная - 1 шт.;\nДюбель с саморезом - 4 шт. (для крепления вентиляторов);\nСаморезы - 2 шт. (для крепления скобы);\nСкоба - 1 шт.',
     price: '1254',
     vendorCode: '03.05.218585',
-    image: '/klimaticheskoe-oborudovanie/4745.png',
+    image: '/klimaticheskoe_oborudovanie/4745.png',
   },
   {
     id: 4746,
@@ -1123,7 +1123,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электровентилятор осевой канальный бытовой предназначен для удаления неприятных запахов и лишней влаги из туалетных, ванных комнат, а так же из других небольших помещений, нуждающихся в вентиляции.',
     price: '1293',
     vendorCode: '03.05.218583',
-    image: '/klimaticheskoe-oborudovanie/4748.png',
+    image: '/klimaticheskoe_oborudovanie/4748.png',
   },
   {
     id: 4749,
@@ -1180,7 +1180,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор в сборе - 1 шт.;\nПаспорт/Инструкция по эксплуатации - 1 шт.;\nКоробка упаковочная - 1 шт.;\nДюбель с саморезом - 4 шт. (для крепления вентиляторов);\nСаморезы - 2 шт. (для крепления скобы);\nСкоба - 1 шт.',
     price: '1439',
     vendorCode: '03.05.218589',
-    image: '/klimaticheskoe-oborudovanie/4755.png',
+    image: '/klimaticheskoe_oborudovanie/4755.png',
   },
   {
     id: 4756,
@@ -1228,7 +1228,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Виброизолятор в сборе - 1 шт.;\nШайба - 2 шт.;\nПрокладка - 1 шт.',
     price: '1650',
     vendorCode: '03.07.000007',
-    image: '/klimaticheskoe-oborudovanie/4761.png',
+    image: '/klimaticheskoe_oborudovanie/4761.png',
   },
   {
     id: 4762,
@@ -1237,7 +1237,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор в сборе - 1 шт.;\nПаспорт/Инструкция по эксплуатации - 1 шт.;\nКоробка упаковочная - 1 шт.;\nДюбель с саморезом - 4 шт. (для крепления вентиляторов);\nСаморезы - 2 шт. (для крепления скобы);\nСкоба - 1 шт.',
     price: '1739',
     vendorCode: '03.05.218573',
-    image: '/klimaticheskoe-oborudovanie/4762.png',
+    image: '/klimaticheskoe_oborudovanie/4762.png',
   },
   {
     id: 4763,
@@ -1293,7 +1293,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '2000',
     vendorCode: '04.07.01.214437',
-    image: '/klimaticheskoe-oborudovanie/4769.png',
+    image: '/klimaticheskoe_oborudovanie/4769.png',
   },
   {
     id: 4770,
@@ -1310,7 +1310,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор в сборе - 1 шт.;\nПаспорт/Инструкция по эксплуатации - 1 шт.;\nКоробка упаковочная - 1 шт.;\nДюбель с саморезом - 4 шт. (для крепления вентиляторов);\nСаморезы - 2 шт. (для крепления скобы);\nСкоба - 1 шт.',
     price: '2114',
     vendorCode: '03.05.218574',
-    image: '/klimaticheskoe-oborudovanie/4771.png',
+    image: '/klimaticheskoe_oborudovanie/4771.png',
   },
   {
     id: 4772,
@@ -1318,7 +1318,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '2150',
     vendorCode: '04.01.01.000118',
-    image: '/klimaticheskoe-oborudovanie/4772.png',
+    image: '/klimaticheskoe_oborudovanie/4772.png',
   },
   {
     id: 4773,
@@ -1359,7 +1359,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель - 1 шт.; Руководство по эксплуатации - 1 шт.; Упаковка - 1 шт.',
     price: '2500',
     vendorCode: '04.07.01.214421',
-    image: '/klimaticheskoe-oborudovanie/4777.png',
+    image: '/klimaticheskoe_oborudovanie/4777.png',
   },
   {
     id: 4778,
@@ -1367,7 +1367,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '2500',
     vendorCode: '04.05.01.214569',
-    image: '/klimaticheskoe-oborudovanie/4778.png',
+    image: '/klimaticheskoe_oborudovanie/4778.png',
   },
   {
     id: 4779,
@@ -1376,7 +1376,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы осевые малогабаритные предназначены для перемещения воздуха или других невзрывоопасных, неагрессивных газовых смесей в системах вентиляции небольших помещений (офисах, кабинетах, санитарных комнат и т.д.).',
     price: '2583',
     vendorCode: '03.01.218597',
-    image: '/klimaticheskoe-oborudovanie/4779.png',
+    image: '/klimaticheskoe_oborudovanie/4779.png',
   },
   {
     id: 4780,
@@ -1401,7 +1401,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'конвектор Hintek XM-500',
     price: '2700',
     vendorCode: '04.05.01.214564',
-    image: '/klimaticheskoe-oborudovanie/4782.png',
+    image: '/klimaticheskoe_oborudovanie/4782.png',
   },
   {
     id: 4783,
@@ -1409,7 +1409,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '2700',
     vendorCode: '04.05.01.214572',
-    image: '/klimaticheskoe-oborudovanie/4783.png',
+    image: '/klimaticheskoe_oborudovanie/4783.png',
   },
   {
     id: 4784,
@@ -1435,7 +1435,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '2950',
     vendorCode: '04.05.01.214570',
-    image: '/klimaticheskoe-oborudovanie/4786.png',
+    image: '/klimaticheskoe_oborudovanie/4786.png',
   },
   {
     id: 4787,
@@ -1460,7 +1460,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Виброизолятор в сборе - 1 шт.;\nШайба - 2 шт.;\nПрокладка - 1 шт.',
     price: '3148',
     vendorCode: '03.07.000037',
-    image: '/klimaticheskoe-oborudovanie/4789.png',
+    image: '/klimaticheskoe_oborudovanie/4789.png',
   },
   {
     id: 4790,
@@ -1468,7 +1468,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '3200',
     vendorCode: '04.05.01.214565',
-    image: '/klimaticheskoe-oborudovanie/4790.png',
+    image: '/klimaticheskoe_oborudovanie/4790.png',
   },
   {
     id: 4791,
@@ -1476,7 +1476,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '3200',
     vendorCode: '04.05.01.214551',
-    image: '/klimaticheskoe-oborudovanie/4791.png',
+    image: '/klimaticheskoe_oborudovanie/4791.png',
   },
   {
     id: 4792,
@@ -1500,7 +1500,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '3400',
     vendorCode: '04.07.01.214405',
-    image: '/klimaticheskoe-oborudovanie/4794.png',
+    image: '/klimaticheskoe_oborudovanie/4794.png',
   },
   {
     id: 4795,
@@ -1508,7 +1508,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '3400',
     vendorCode: '04.05.01.214571',
-    image: '/klimaticheskoe-oborudovanie/4795.png',
+    image: '/klimaticheskoe_oborudovanie/4795.png',
   },
   {
     id: 4796,
@@ -1533,7 +1533,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '3500',
     vendorCode: '04.01.01.000119',
-    image: '/klimaticheskoe-oborudovanie/4798.png',
+    image: '/klimaticheskoe_oborudovanie/4798.png',
   },
   {
     id: 4799,
@@ -1542,7 +1542,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический - 1 шт.; Опора - 2шт.; Настенный кронштейн - 2 шт.; Комплект крепежа - 1 шт.;\nРуководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '3550',
     vendorCode: '04.05.01.214587',
-    image: '/klimaticheskoe-oborudovanie/4799.png',
+    image: '/klimaticheskoe_oborudovanie/4799.png',
   },
   {
     id: 4800,
@@ -1551,7 +1551,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '3600',
     vendorCode: '05.214370',
-    image: '/klimaticheskoe-oborudovanie/4800.png',
+    image: '/klimaticheskoe_oborudovanie/4800.png',
   },
   {
     id: 4801,
@@ -1569,7 +1569,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический - 1шт.; 2. Опора - 2 шт.; Комплект крепежа - 1шт.; Руководство по эксплуатации и гарантийный талон - 1шт.; Упаковка - 1 шт.',
     price: '3700',
     vendorCode: '04.05.01.214582',
-    image: '/klimaticheskoe-oborudovanie/4802.png',
+    image: '/klimaticheskoe_oborudovanie/4802.png',
   },
   {
     id: 4803,
@@ -1595,7 +1595,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'конвектор Hintek RA 500M',
     price: '3800',
     vendorCode: '04.05.01.214562',
-    image: '/klimaticheskoe-oborudovanie/4805.png',
+    image: '/klimaticheskoe_oborudovanie/4805.png',
   },
   {
     id: 4806,
@@ -1604,7 +1604,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический - 1 шт.; Опора - 2шт.; Настенный кронштейн - 2 шт.; Комплект крепежа - 1 шт.;\nРуководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '3850',
     vendorCode: '04.05.01.214588',
-    image: '/klimaticheskoe-oborudovanie/4806.png',
+    image: '/klimaticheskoe_oborudovanie/4806.png',
   },
   {
     id: 4807,
@@ -1622,7 +1622,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Стеновой кронштейн - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '3900',
     vendorCode: '04.07.01.214426',
-    image: '/klimaticheskoe-oborudovanie/4808.png',
+    image: '/klimaticheskoe_oborudovanie/4808.png',
   },
   {
     id: 4809,
@@ -1631,7 +1631,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Компдлект монтажных деталей - 1 шт; Руководство по эксплуатации - 1 шт; Упаковка - 1шт.',
     price: '3900',
     vendorCode: '04.07.01.214422',
-    image: '/klimaticheskoe-oborudovanie/4809.png',
+    image: '/klimaticheskoe_oborudovanie/4809.png',
   },
   {
     id: 4810,
@@ -1640,7 +1640,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрообогреватель -1 шт.; Паспорт (руководство по эксплуатации), гарантийный талон - 1шт.; Упаковка -1 шт.; Крепежный комплект - 1 шт.',
     price: '3900',
     vendorCode: '04.07.01.214376',
-    image: '/klimaticheskoe-oborudovanie/4810.png',
+    image: '/klimaticheskoe_oborudovanie/4810.png',
   },
   {
     id: 4811,
@@ -1648,7 +1648,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '3900',
     vendorCode: '04.05.01.214566',
-    image: '/klimaticheskoe-oborudovanie/4811.png',
+    image: '/klimaticheskoe_oborudovanie/4811.png',
   },
   {
     id: 4812,
@@ -1657,7 +1657,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловентилятор - 1 шт.;\nРуководство по эксплуатации - 1 шт.;\nГарантийный талон - 1 шт.;\nУпаковка - 1 шт.',
     price: '3900',
     vendorCode: '04.01.01.000133',
-    image: '/klimaticheskoe-oborudovanie/4812.png',
+    image: '/klimaticheskoe_oborudovanie/4812.png',
   },
   {
     id: 4813,
@@ -1666,7 +1666,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический -1 шт.; Комплект монтажных деталей - 1; Инструкция по эксплуатации - 1; Упаковка - 1 шт.',
     price: '3900',
     vendorCode: '04.05.01.214552',
-    image: '/klimaticheskoe-oborudovanie/4813.png',
+    image: '/klimaticheskoe_oborudovanie/4813.png',
   },
   {
     id: 4814,
@@ -1674,7 +1674,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '3950',
     vendorCode: '04.01.01.000101',
-    image: '/klimaticheskoe-oborudovanie/4814.png',
+    image: '/klimaticheskoe_oborudovanie/4814.png',
   },
   {
     id: 4815,
@@ -1691,7 +1691,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический - 1шт.; 2. Опора - 2 шт.; Настенный кронштейн - 2 шт.; Комплект крепежа - 1шт.; Руководство по эксплуатации и гарантийный талон - 1шт.; Упаковка - 1 шт.',
     price: '4000',
     vendorCode: '04.05.01.214579',
-    image: '/klimaticheskoe-oborudovanie/4816.png',
+    image: '/klimaticheskoe_oborudovanie/4816.png',
   },
   {
     id: 4817,
@@ -1700,7 +1700,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Конвектор - 1 шт.; Кронштейн стеновой - 2 шт.; Колёсные опоры - 2шт.; Комплект крепежа - 1 шт.; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '4100',
     vendorCode: '04.05.01.214576',
-    image: '/klimaticheskoe-oborudovanie/4817.png',
+    image: '/klimaticheskoe_oborudovanie/4817.png',
   },
   {
     id: 4818,
@@ -1708,7 +1708,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '4200',
     vendorCode: '04.05.01.214567',
-    image: '/klimaticheskoe-oborudovanie/4818.png',
+    image: '/klimaticheskoe_oborudovanie/4818.png',
   },
   {
     id: 4819,
@@ -1717,7 +1717,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический - 1шт.; 2. Опора - 2 шт.; Настенный кронштейн - 2 шт.; Комплект крепежа - 1шт.; Руководство по эксплуатации и гарантийный талон - 1шт.; Упаковка - 1 шт.',
     price: '4200',
     vendorCode: '04.05.01.214583',
-    image: '/klimaticheskoe-oborudovanie/4819.png',
+    image: '/klimaticheskoe_oborudovanie/4819.png',
   },
   {
     id: 4820,
@@ -1726,7 +1726,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Стеновой кронштейн - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '4300',
     vendorCode: '04.07.01.214427',
-    image: '/klimaticheskoe-oborudovanie/4820.png',
+    image: '/klimaticheskoe_oborudovanie/4820.png',
   },
   {
     id: 4821,
@@ -1734,7 +1734,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'конвектор Hintek RA 1000M',
     price: '4300',
     vendorCode: '04.05.01.214548',
-    image: '/klimaticheskoe-oborudovanie/4821.png',
+    image: '/klimaticheskoe_oborudovanie/4821.png',
   },
   {
     id: 4822,
@@ -1759,7 +1759,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический - 1 шт.; Опора - 2шт.; Настенный кронштейн - 2 шт.; Комплект крепежа - 1 шт.;\nРуководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '4350',
     vendorCode: '04.05.01.214589',
-    image: '/klimaticheskoe-oborudovanie/4824.png',
+    image: '/klimaticheskoe_oborudovanie/4824.png',
   },
   {
     id: 4825,
@@ -1768,7 +1768,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '4400',
     vendorCode: '05.214371',
-    image: '/klimaticheskoe-oborudovanie/4825.png',
+    image: '/klimaticheskoe_oborudovanie/4825.png',
   },
   {
     id: 4826,
@@ -1784,7 +1784,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '4480',
     vendorCode: '03.06.301666',
-    image: '/klimaticheskoe-oborudovanie/4827.png',
+    image: '/klimaticheskoe_oborudovanie/4827.png',
   },
   {
     id: 4828,
@@ -1792,7 +1792,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель - 1 шт.; Руководство по эксплуатации - 1 шт.; Упаковка - 1 шт.',
     price: '4500',
     vendorCode: '04.07.01.214417',
-    image: '/klimaticheskoe-oborudovanie/4828.png',
+    image: '/klimaticheskoe_oborudovanie/4828.png',
   },
   {
     id: 4829,
@@ -1801,7 +1801,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Компдлект монтажных деталей - 1 шт; Руководство по эксплуатации - 1 шт; Упаковка - 1шт.',
     price: '4500',
     vendorCode: '04.07.01.214423',
-    image: '/klimaticheskoe-oborudovanie/4829.png',
+    image: '/klimaticheskoe_oborudovanie/4829.png',
   },
   {
     id: 4830,
@@ -1810,7 +1810,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрообогреватель -1 шт.; Паспорт (руководство по эксплуатации), гарантийный талон - 1шт.; Упаковка -1 шт.; Крепежный комплект - 1 шт.',
     price: '4500',
     vendorCode: '04.07.01.214377',
-    image: '/klimaticheskoe-oborudovanie/4830.png',
+    image: '/klimaticheskoe_oborudovanie/4830.png',
   },
   {
     id: 4831,
@@ -1819,7 +1819,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический - 1шт.; 2. Опора - 2 шт.; Настенный кронштейн - 2 шт.; Комплект крепежа - 1шт.; Руководство по эксплуатации и гарантийный талон - 1шт.; Упаковка - 1 шт.',
     price: '4500',
     vendorCode: '04.05.01.214584',
-    image: '/klimaticheskoe-oborudovanie/4831.png',
+    image: '/klimaticheskoe_oborudovanie/4831.png',
   },
   {
     id: 4832,
@@ -1827,7 +1827,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '4500',
     vendorCode: '04.05.01.214568',
-    image: '/klimaticheskoe-oborudovanie/4832.png',
+    image: '/klimaticheskoe_oborudovanie/4832.png',
   },
   {
     id: 4833,
@@ -1835,7 +1835,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель - 1 шт.; Руководство по эксплуатации - 1 шт.; Упаковка - 1 шт.',
     price: '4500',
     vendorCode: '04.07.01.214382',
-    image: '/klimaticheskoe-oborudovanie/4833.png',
+    image: '/klimaticheskoe_oborudovanie/4833.png',
   },
   {
     id: 4834,
@@ -1843,7 +1843,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '4500',
     vendorCode: '04.05.01.214550',
-    image: '/klimaticheskoe-oborudovanie/4834.png',
+    image: '/klimaticheskoe_oborudovanie/4834.png',
   },
   {
     id: 4835,
@@ -1852,7 +1852,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Стеновой кронштейн - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '4600',
     vendorCode: '04.07.01.214428',
-    image: '/klimaticheskoe-oborudovanie/4835.png',
+    image: '/klimaticheskoe_oborudovanie/4835.png',
   },
   {
     id: 4836,
@@ -1861,7 +1861,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический - 1шт.; 2. Опора - 2 шт.; Настенный кронштейн - 2 шт.; Комплект крепежа - 1шт.; Руководство по эксплуатации и гарантийный талон - 1шт.; Упаковка - 1 шт.',
     price: '4600',
     vendorCode: '04.05.01.214580',
-    image: '/klimaticheskoe-oborudovanie/4836.png',
+    image: '/klimaticheskoe_oborudovanie/4836.png',
   },
   {
     id: 4837,
@@ -1869,7 +1869,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '4620',
     vendorCode: '03.06.301667',
-    image: '/klimaticheskoe-oborudovanie/4837.png',
+    image: '/klimaticheskoe_oborudovanie/4837.png',
   },
   {
     id: 4838,
@@ -1911,7 +1911,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '4990',
     vendorCode: '03.06.301657',
-    image: '/klimaticheskoe-oborudovanie/4842.png',
+    image: '/klimaticheskoe_oborudovanie/4842.png',
   },
   {
     id: 4843,
@@ -1919,7 +1919,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '4990',
     vendorCode: '03.06.301668',
-    image: '/klimaticheskoe-oborudovanie/4843.png',
+    image: '/klimaticheskoe_oborudovanie/4843.png',
   },
   {
     id: 4844,
@@ -1927,7 +1927,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '4990',
     vendorCode: '03.06.301659',
-    image: '/klimaticheskoe-oborudovanie/4844.png',
+    image: '/klimaticheskoe_oborudovanie/4844.png',
   },
   {
     id: 4845,
@@ -1935,7 +1935,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая пушка -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '4990',
     vendorCode: '04.000055',
-    image: '/klimaticheskoe-oborudovanie/4845.png',
+    image: '/klimaticheskoe_oborudovanie/4845.png',
   },
   {
     id: 4846,
@@ -1951,7 +1951,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель - 1 шт.; Руководство по эксплуатации - 1 шт.; Упаковка - 1 шт.',
     price: '5000',
     vendorCode: '04.07.01.214418',
-    image: '/klimaticheskoe-oborudovanie/4847.png',
+    image: '/klimaticheskoe_oborudovanie/4847.png',
   },
   {
     id: 4848,
@@ -1959,7 +1959,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель - 1 шт.; Руководство по эксплуатации - 1 шт.; Упаковка - 1 шт.',
     price: '5000',
     vendorCode: '04.07.01.214402',
-    image: '/klimaticheskoe-oborudovanie/4848.png',
+    image: '/klimaticheskoe_oborudovanie/4848.png',
   },
   {
     id: 4849,
@@ -1968,7 +1968,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Конвектор - 1 шт.; Кронштейн стеновой - 2 шт.; Колёсные опоры - 2шт.; Комплект крепежа - 1 шт.; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '5000',
     vendorCode: '04.05.01.214577',
-    image: '/klimaticheskoe-oborudovanie/4849.png',
+    image: '/klimaticheskoe_oborudovanie/4849.png',
   },
   {
     id: 4850,
@@ -1985,7 +1985,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Стеновой кронштейн - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '5100',
     vendorCode: '04.07.01.214432',
-    image: '/klimaticheskoe-oborudovanie/4851.png',
+    image: '/klimaticheskoe_oborudovanie/4851.png',
   },
   {
     id: 4852,
@@ -1993,7 +1993,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор - 1 шт.;\nРуководство по эксплуатации и гарантийный талон - 1 шт.;\nУпаковка - 1 шт.',
     price: '5100',
     vendorCode: '04.01.01.000141',
-    image: '/klimaticheskoe-oborudovanie/4852.png',
+    image: '/klimaticheskoe_oborudovanie/4852.png',
   },
   {
     id: 4853,
@@ -2002,7 +2002,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Стеновой кронштейн - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '5200',
     vendorCode: '04.07.01.214429',
-    image: '/klimaticheskoe-oborudovanie/4853.png',
+    image: '/klimaticheskoe_oborudovanie/4853.png',
   },
   {
     id: 4854,
@@ -2010,7 +2010,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '5200',
     vendorCode: '04.07.01.214406',
-    image: '/klimaticheskoe-oborudovanie/4854.png',
+    image: '/klimaticheskoe_oborudovanie/4854.png',
   },
   {
     id: 4855,
@@ -2019,7 +2019,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический - 1шт.; 2. Опора - 2 шт.; Настенный кронштейн - 2 шт.; Комплект крепежа - 1шт.; Руководство по эксплуатации и гарантийный талон - 1шт.; Упаковка - 1 шт.',
     price: '5200',
     vendorCode: '04.05.01.214581',
-    image: '/klimaticheskoe-oborudovanie/4855.png',
+    image: '/klimaticheskoe_oborudovanie/4855.png',
   },
   {
     id: 4856,
@@ -2028,7 +2028,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловентилятор - 1 шт.;\nРуководство по эксплуатации - 1 шт.;\nГарантийный талон - 1 шт.;\nУпаковка - 1 шт.',
     price: '5200',
     vendorCode: '04.01.01.000134',
-    image: '/klimaticheskoe-oborudovanie/4856.png',
+    image: '/klimaticheskoe_oborudovanie/4856.png',
   },
   {
     id: 4857,
@@ -2036,7 +2036,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '5300',
     vendorCode: '04.05.01.214529',
-    image: '/klimaticheskoe-oborudovanie/4857.png',
+    image: '/klimaticheskoe_oborudovanie/4857.png',
   },
   {
     id: 4858,
@@ -2045,7 +2045,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '5400',
     vendorCode: '04.07.01.214435',
-    image: '/klimaticheskoe-oborudovanie/4858.png',
+    image: '/klimaticheskoe_oborudovanie/4858.png',
   },
   {
     id: 4859,
@@ -2054,7 +2054,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Стеновой кронштейн - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '5500',
     vendorCode: '04.07.01.214433',
-    image: '/klimaticheskoe-oborudovanie/4859.png',
+    image: '/klimaticheskoe_oborudovanie/4859.png',
   },
   {
     id: 4860,
@@ -2063,7 +2063,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Стеновой кронштейн - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '5500',
     vendorCode: '04.07.01.214430',
-    image: '/klimaticheskoe-oborudovanie/4860.png',
+    image: '/klimaticheskoe_oborudovanie/4860.png',
   },
   {
     id: 4861,
@@ -2071,7 +2071,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель - 1 шт.; Руководство по эксплуатации - 1 шт.; Упаковка - 1 шт.',
     price: '5500',
     vendorCode: '04.07.01.214419',
-    image: '/klimaticheskoe-oborudovanie/4861.png',
+    image: '/klimaticheskoe_oborudovanie/4861.png',
   },
   {
     id: 4862,
@@ -2079,7 +2079,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель - 1 шт.; Руководство по эксплуатации - 1 шт.; Упаковка - 1 шт.',
     price: '5500',
     vendorCode: '04.07.01.214407',
-    image: '/klimaticheskoe-oborudovanie/4862.png',
+    image: '/klimaticheskoe_oborudovanie/4862.png',
   },
   {
     id: 4863,
@@ -2088,7 +2088,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электровентиляторы осевые канальные ESQ Reel предназначены для применения в системах вентиляции промышленных, общественных и жилых зданий.',
     price: '5500',
     vendorCode: '03.05.218576',
-    image: '/klimaticheskoe-oborudovanie/4863.png',
+    image: '/klimaticheskoe_oborudovanie/4863.png',
   },
   {
     id: 4864,
@@ -2097,7 +2097,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор в сборе - 1 шт.;\nКлавишный выключатель - 1 шт.;\nРуководство пользователя - 1 шт;\nКоробка упаковочная',
     price: '5500',
     vendorCode: '03.05.218575',
-    image: '/klimaticheskoe-oborudovanie/4864.png',
+    image: '/klimaticheskoe_oborudovanie/4864.png',
   },
   {
     id: 4865,
@@ -2105,7 +2105,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель - 1шт.; Руководство по эксплуатации - 1 шт; Упаковка - 1шт.',
     price: '5500',
     vendorCode: '04.07.01.214383',
-    image: '/klimaticheskoe-oborudovanie/4865.png',
+    image: '/klimaticheskoe_oborudovanie/4865.png',
   },
   {
     id: 4866,
@@ -2114,7 +2114,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы канальные ESQ ВКК М предназначены для применения в системах вентиляции промышленных, общественных и жилых зданий.',
     price: '5690',
     vendorCode: '03.05.218554',
-    image: '/klimaticheskoe-oborudovanie/4866.png',
+    image: '/klimaticheskoe_oborudovanie/4866.png',
   },
   {
     id: 4867,
@@ -2123,7 +2123,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Конвектор - 1 шт.; Кронштейн стеновой - 2 шт.; Колёсные опоры - 2шт.; Комплект крепежа - 1 шт.; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '5700',
     vendorCode: '04.05.01.214578',
-    image: '/klimaticheskoe-oborudovanie/4867.png',
+    image: '/klimaticheskoe_oborudovanie/4867.png',
   },
   {
     id: 4868,
@@ -2132,7 +2132,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель - 1 шт.; Комплект ножек с роликами - 1 шт.; Кронштейн настенного монтажа - 1 шт.; Набор крепежных элементов - 1 шт.; Инструкция по эксплуатации с гарантийным талоном - 1 шт.; Упаковка - 1 шт.',
     price: '5700',
     vendorCode: '04.05.01.214533',
-    image: '/klimaticheskoe-oborudovanie/4868.png',
+    image: '/klimaticheskoe_oborudovanie/4868.png',
   },
   {
     id: 4869,
@@ -2141,7 +2141,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Стеновой кронштейн - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '5800',
     vendorCode: '04.07.01.214434',
-    image: '/klimaticheskoe-oborudovanie/4869.png',
+    image: '/klimaticheskoe_oborudovanie/4869.png',
   },
   {
     id: 4870,
@@ -2150,7 +2150,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '5800',
     vendorCode: '04.07.01.214436',
-    image: '/klimaticheskoe-oborudovanie/4870.png',
+    image: '/klimaticheskoe_oborudovanie/4870.png',
   },
   {
     id: 4871,
@@ -2158,7 +2158,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '5800',
     vendorCode: '04.000044',
-    image: '/klimaticheskoe-oborudovanie/4871.png',
+    image: '/klimaticheskoe_oborudovanie/4871.png',
   },
   {
     id: 4872,
@@ -2167,7 +2167,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель инфракрасный - 1 шт; Стеновой кронштейн - 1 шт; Комплект крепежа - 1 шт; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '5900',
     vendorCode: '04.07.01.214431',
-    image: '/klimaticheskoe-oborudovanie/4872.png',
+    image: '/klimaticheskoe_oborudovanie/4872.png',
   },
   {
     id: 4873,
@@ -2176,7 +2176,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Компдлект монтажных деталей - 1 шт; Руководство по эксплуатации - 1 шт; Упаковка - 1шт.',
     price: '5900',
     vendorCode: '04.07.01.214424',
-    image: '/klimaticheskoe-oborudovanie/4873.png',
+    image: '/klimaticheskoe_oborudovanie/4873.png',
   },
   {
     id: 4874,
@@ -2185,7 +2185,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрообогреватель -1 шт.; Паспорт (руководство по эксплуатации), гарантийный талон - 1шт.; Упаковка -1 шт.; Крепежный комплект - 1 шт.',
     price: '5900',
     vendorCode: '04.07.01.214378',
-    image: '/klimaticheskoe-oborudovanie/4874.png',
+    image: '/klimaticheskoe_oborudovanie/4874.png',
   },
   {
     id: 4875,
@@ -2193,7 +2193,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '5900',
     vendorCode: '04.05.01.214530',
-    image: '/klimaticheskoe-oborudovanie/4875.png',
+    image: '/klimaticheskoe_oborudovanie/4875.png',
   },
   {
     id: 4876,
@@ -2201,7 +2201,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель - 1 шт.; Руководство по эксплуатации - 1 шт.; Упаковка - 1 шт.',
     price: '6000',
     vendorCode: '04.07.01.214420',
-    image: '/klimaticheskoe-oborudovanie/4876.png',
+    image: '/klimaticheskoe_oborudovanie/4876.png',
   },
   {
     id: 4877,
@@ -2209,7 +2209,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '6000',
     vendorCode: '04.07.01.214403',
-    image: '/klimaticheskoe-oborudovanie/4877.png',
+    image: '/klimaticheskoe_oborudovanie/4877.png',
   },
   {
     id: 4878,
@@ -2225,7 +2225,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '6120',
     vendorCode: '03.06.301679',
-    image: '/klimaticheskoe-oborudovanie/4879.png',
+    image: '/klimaticheskoe_oborudovanie/4879.png',
   },
   {
     id: 4880,
@@ -2233,7 +2233,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '6150',
     vendorCode: '03.06.301669',
-    image: '/klimaticheskoe-oborudovanie/4880.png',
+    image: '/klimaticheskoe_oborudovanie/4880.png',
   },
   {
     id: 4881,
@@ -2242,7 +2242,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы канальные ESQ ВКК М предназначены для применения в системах вентиляции промышленных, общественных и жилых зданий.',
     price: '6190',
     vendorCode: '03.05.218555',
-    image: '/klimaticheskoe-oborudovanie/4881.png',
+    image: '/klimaticheskoe_oborudovanie/4881.png',
   },
   {
     id: 4882,
@@ -2251,7 +2251,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель - 1 шт.; Комплект ножек с роликами - 1 шт.; Кронштейн настенного монтажа - 1 шт.; Набор крепежных элементов - 1 шт.; Инструкция по эксплуатации с гарантийным талоном - 1 шт.; Упаковка - 1 шт.',
     price: '6400',
     vendorCode: '04.05.01.214534',
-    image: '/klimaticheskoe-oborudovanie/4882.png',
+    image: '/klimaticheskoe_oborudovanie/4882.png',
   },
   {
     id: 4883,
@@ -2268,7 +2268,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы применяются в стационарных системах вентиляции, кондиционирования, воздушного отопления жилых, общественных и производственных зданий с сетью воздуховодов.',
     price: '6490',
     vendorCode: '03.05.217809',
-    image: '/klimaticheskoe-oborudovanie/4884.png',
+    image: '/klimaticheskoe_oborudovanie/4884.png',
   },
   {
     id: 4885,
@@ -2276,7 +2276,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель 1 шт.; Руководство по эксплуатации 1 шт.; Упаковка 1 шт',
     price: '6500',
     vendorCode: '04.07.01.214415',
-    image: '/klimaticheskoe-oborudovanie/4885.png',
+    image: '/klimaticheskoe_oborudovanie/4885.png',
   },
   {
     id: 4886,
@@ -2284,7 +2284,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель 1 шт.; Руководство по эксплуатации 1 шт.; Упаковка 1 шт',
     price: '6500',
     vendorCode: '04.07.01.214385',
-    image: '/klimaticheskoe-oborudovanie/4886.png',
+    image: '/klimaticheskoe_oborudovanie/4886.png',
   },
   {
     id: 4887,
@@ -2293,7 +2293,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический плинтусный- 1 шт.; Опора - 1 шт.; Шнур электропитания - 1 шт.; Комплект крепежа - 1 шт.; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '6500',
     vendorCode: '04.05.01.214585',
-    image: '/klimaticheskoe-oborudovanie/4887.png',
+    image: '/klimaticheskoe_oborudovanie/4887.png',
   },
   {
     id: 4888,
@@ -2302,7 +2302,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электровентиляторы осевые канальные ESQ Reel предназначены для применения в системах вентиляции промышленных, общественных и жилых зданий.',
     price: '6500',
     vendorCode: '03.05.218577',
-    image: '/klimaticheskoe-oborudovanie/4888.png',
+    image: '/klimaticheskoe_oborudovanie/4888.png',
   },
   {
     id: 4889,
@@ -2310,7 +2310,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Виброизолятор в сборе - 1 шт.;\nШайба - 2 шт.;\nПрокладка - 1 шт.',
     price: '6531',
     vendorCode: '03.07.000071',
-    image: '/klimaticheskoe-oborudovanie/4889.png',
+    image: '/klimaticheskoe_oborudovanie/4889.png',
   },
   {
     id: 4890,
@@ -2326,7 +2326,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '6790',
     vendorCode: '03.06.301680',
-    image: '/klimaticheskoe-oborudovanie/4891.png',
+    image: '/klimaticheskoe_oborudovanie/4891.png',
   },
   {
     id: 4892,
@@ -2334,7 +2334,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '6890',
     vendorCode: '03.06.301658',
-    image: '/klimaticheskoe-oborudovanie/4892.png',
+    image: '/klimaticheskoe_oborudovanie/4892.png',
   },
   {
     id: 4893,
@@ -2342,7 +2342,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '6890',
     vendorCode: '03.06.301670',
-    image: '/klimaticheskoe-oborudovanie/4893.png',
+    image: '/klimaticheskoe_oborudovanie/4893.png',
   },
   {
     id: 4894,
@@ -2350,7 +2350,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '6890',
     vendorCode: '03.06.301660',
-    image: '/klimaticheskoe-oborudovanie/4894.png',
+    image: '/klimaticheskoe_oborudovanie/4894.png',
   },
   {
     id: 4895,
@@ -2359,7 +2359,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы канальные ESQ ВКК М предназначены для применения в системах вентиляции промышленных, общественных и жилых зданий.',
     price: '6990',
     vendorCode: '03.05.218556',
-    image: '/klimaticheskoe-oborudovanie/4895.png',
+    image: '/klimaticheskoe_oborudovanie/4895.png',
   },
   {
     id: 4896,
@@ -2367,7 +2367,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель 1 шт.; Руководство по эксплуатации 1 шт.; Упаковка 1 шт',
     price: '7000',
     vendorCode: '04.07.01.214416',
-    image: '/klimaticheskoe-oborudovanie/4896.png',
+    image: '/klimaticheskoe_oborudovanie/4896.png',
   },
   {
     id: 4897,
@@ -2375,7 +2375,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '7000',
     vendorCode: '04.07.01.214404',
-    image: '/klimaticheskoe-oborudovanie/4897.png',
+    image: '/klimaticheskoe_oborudovanie/4897.png',
   },
   {
     id: 4898,
@@ -2384,7 +2384,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '7000',
     vendorCode: '04.07.01.214395',
-    image: '/klimaticheskoe-oborudovanie/4898.png',
+    image: '/klimaticheskoe_oborudovanie/4898.png',
   },
   {
     id: 4899,
@@ -2393,7 +2393,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрообогреватель -1 шт.; Паспорт (руководство по эксплуатации) - 1 шт.; Гарантийный талон -1 шт.; Упаковка -1 шт.1',
     price: '7000',
     vendorCode: '04.07.01.214412',
-    image: '/klimaticheskoe-oborudovanie/4899.png',
+    image: '/klimaticheskoe_oborudovanie/4899.png',
   },
   {
     id: 4900,
@@ -2402,7 +2402,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрообогреватель -1 шт.; Паспорт (руководство по эксплуатации) - 1 шт.; Гарантийный талон -1 шт.; Упаковка -1 шт.1',
     price: '7000',
     vendorCode: '04.07.01.214392',
-    image: '/klimaticheskoe-oborudovanie/4900.png',
+    image: '/klimaticheskoe_oborudovanie/4900.png',
   },
   {
     id: 4901,
@@ -2411,7 +2411,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель электрический плинтусный- 1 шт.; Опора - 1 шт.; Шнур электропитания - 1 шт.; Комплект крепежа - 1 шт.; Руководство по эксплуатации и гарантийный талон - 1 шт.; Упаковка - 1 шт.',
     price: '7000',
     vendorCode: '04.05.01.214586',
-    image: '/klimaticheskoe-oborudovanie/4901.png',
+    image: '/klimaticheskoe_oborudovanie/4901.png',
   },
   {
     id: 4902,
@@ -2419,7 +2419,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая пушка -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '7000',
     vendorCode: '04.01.01.000127',
-    image: '/klimaticheskoe-oborudovanie/4902.png',
+    image: '/klimaticheskoe_oborudovanie/4902.png',
   },
   {
     id: 4903,
@@ -2428,7 +2428,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы применяются в стационарных системах вентиляции, кондиционирования, воздушного отопления жилых, общественных и производственных зданий с сетью воздуховодов.',
     price: '7190',
     vendorCode: '03.05.217810',
-    image: '/klimaticheskoe-oborudovanie/4903.png',
+    image: '/klimaticheskoe_oborudovanie/4903.png',
   },
   {
     id: 4904,
@@ -2437,7 +2437,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '7200',
     vendorCode: '05.214372',
-    image: '/klimaticheskoe-oborudovanie/4904.png',
+    image: '/klimaticheskoe_oborudovanie/4904.png',
   },
   {
     id: 4905,
@@ -2454,7 +2454,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '7290',
     vendorCode: '04.01.01.000122',
-    image: '/klimaticheskoe-oborudovanie/4906.png',
+    image: '/klimaticheskoe_oborudovanie/4906.png',
   },
   {
     id: 4907,
@@ -2470,7 +2470,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '7400',
     vendorCode: '04.01.01.000142',
-    image: '/klimaticheskoe-oborudovanie/4908.png',
+    image: '/klimaticheskoe_oborudovanie/4908.png',
   },
   {
     id: 4909,
@@ -2479,7 +2479,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Обогреватель - 1 шт.; Комплект ножек с роликами - 1 шт.; Кронштейн настенного монтажа - 1 шт.; Набор крепежных элементов - 1 шт.; Инструкция по эксплуатации с гарантийным талоном - 1 шт.; Упаковка - 1 шт.',
     price: '7500',
     vendorCode: '04.05.01.214535',
-    image: '/klimaticheskoe-oborudovanie/4909.png',
+    image: '/klimaticheskoe_oborudovanie/4909.png',
   },
   {
     id: 4910,
@@ -2487,7 +2487,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая пушка -1 шт.; Руководство по эксплуатации и гарантийный таллон -1 шт.; Упаковка.',
     price: '7500',
     vendorCode: '04.000042',
-    image: '/klimaticheskoe-oborudovanie/4910.png',
+    image: '/klimaticheskoe_oborudovanie/4910.png',
   },
   {
     id: 4911,
@@ -2495,7 +2495,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '7607',
     vendorCode: '04.09.000038',
-    image: '/klimaticheskoe-oborudovanie/4911.png',
+    image: '/klimaticheskoe_oborudovanie/4911.png',
   },
   {
     id: 4912,
@@ -2521,7 +2521,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы применяются в стационарных системах вентиляции, кондиционирования, воздушного отопления жилых, общественных и производственных зданий с сетью воздуховодов.',
     price: '7790',
     vendorCode: '03.05.217811',
-    image: '/klimaticheskoe-oborudovanie/4914.png',
+    image: '/klimaticheskoe_oborudovanie/4914.png',
   },
   {
     id: 4915,
@@ -2530,7 +2530,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '7800',
     vendorCode: '04.07.01.214396',
-    image: '/klimaticheskoe-oborudovanie/4915.png',
+    image: '/klimaticheskoe_oborudovanie/4915.png',
   },
   {
     id: 4916,
@@ -2539,7 +2539,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловентилятор - 1 шт.;\nРуководство по эксплуатации - 1 шт.;\nГарантийный талон - 1 шт.;\nУпаковка - 1 шт.',
     price: '7900',
     vendorCode: '04.01.01.000135',
-    image: '/klimaticheskoe-oborudovanie/4916.png',
+    image: '/klimaticheskoe_oborudovanie/4916.png',
   },
   {
     id: 4917,
@@ -2547,7 +2547,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '7900',
     vendorCode: '04.000048',
-    image: '/klimaticheskoe-oborudovanie/4917.png',
+    image: '/klimaticheskoe_oborudovanie/4917.png',
   },
   {
     id: 4918,
@@ -2555,7 +2555,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '7930',
     vendorCode: '03.06.301681',
-    image: '/klimaticheskoe-oborudovanie/4918.png',
+    image: '/klimaticheskoe_oborudovanie/4918.png',
   },
   {
     id: 4919,
@@ -2564,7 +2564,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрообогреватель -1 шт.; Паспорт (руководство по эксплуатации) - 1 шт.; Гарантийный талон -1 шт.; Упаковка -1 шт.1',
     price: '8000',
     vendorCode: '04.07.01.214413',
-    image: '/klimaticheskoe-oborudovanie/4919.png',
+    image: '/klimaticheskoe_oborudovanie/4919.png',
   },
   {
     id: 4920,
@@ -2573,7 +2573,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрообогреватель -1 шт.; Паспорт (руководство по эксплуатации) - 1 шт.; Гарантийный талон -1 шт.; Упаковка -1 шт.1',
     price: '8000',
     vendorCode: '04.07.01.214393',
-    image: '/klimaticheskoe-oborudovanie/4920.png',
+    image: '/klimaticheskoe_oborudovanie/4920.png',
   },
   {
     id: 4921,
@@ -2581,7 +2581,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '8070',
     vendorCode: '03.06.301671',
-    image: '/klimaticheskoe-oborudovanie/4921.png',
+    image: '/klimaticheskoe_oborudovanie/4921.png',
   },
   {
     id: 4922,
@@ -2589,7 +2589,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '8070',
     vendorCode: '03.06.301675',
-    image: '/klimaticheskoe-oborudovanie/4922.png',
+    image: '/klimaticheskoe_oborudovanie/4922.png',
   },
   {
     id: 4923,
@@ -2597,7 +2597,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '8070',
     vendorCode: '03.06.301661',
-    image: '/klimaticheskoe-oborudovanie/4923.png',
+    image: '/klimaticheskoe_oborudovanie/4923.png',
   },
   {
     id: 4924,
@@ -2622,7 +2622,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса RP-0306-D предназначена для создания узкого направленного теплого потока воздуха, который препятствует проникновению холодного наружного воздуха внутрь помещения и для поддержания комфортной температуры в зоне установки завесы. Устанавливается над кассовыми окнами, стандартными дверными проемами в жилых и офисных помещениях.\nВ теплое и жаркое время года при отключенных нагревательных элементах завеса может использоваться для защиты помещений с установленными кондиционерами от проникновения теплого наружного воздуха, а также\nпыли, дыма, насекомых. Эксплуатация возможна только при горизонтальной установке над проемами.',
     price: '8700',
     vendorCode: '04.03.01.214395',
-    image: '/klimaticheskoe-oborudovanie/4926.png',
+    image: '/klimaticheskoe_oborudovanie/4926.png',
   },
   {
     id: 4927,
@@ -2631,7 +2631,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы канальные ESQ ВКК М предназначены для применения в системах вентиляции промышленных, общественных и жилых зданий.',
     price: '8790',
     vendorCode: '03.05.218557',
-    image: '/klimaticheskoe-oborudovanie/4927.png',
+    image: '/klimaticheskoe_oborudovanie/4927.png',
   },
   {
     id: 4928,
@@ -2640,7 +2640,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрообогреватель -1 шт.; Паспорт (руководство по эксплуатации) - 1 шт.; Гарантийный талон -1 шт.; Упаковка -1 шт.1',
     price: '9000',
     vendorCode: '04.07.01.214414',
-    image: '/klimaticheskoe-oborudovanie/4928.png',
+    image: '/klimaticheskoe_oborudovanie/4928.png',
   },
   {
     id: 4929,
@@ -2649,7 +2649,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрообогреватель -1 шт.; Паспорт (руководство по эксплуатации) - 1 шт.; Гарантийный талон -1 шт.; Упаковка -1 шт.1',
     price: '9000',
     vendorCode: '04.07.01.214394',
-    image: '/klimaticheskoe-oborudovanie/4929.png',
+    image: '/klimaticheskoe_oborudovanie/4929.png',
   },
   {
     id: 4930,
@@ -2673,7 +2673,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '9200',
     vendorCode: '04.07.01.214373',
-    image: '/klimaticheskoe-oborudovanie/4932.png',
+    image: '/klimaticheskoe_oborudovanie/4932.png',
   },
   {
     id: 4933,
@@ -2689,7 +2689,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '9490',
     vendorCode: '03.06.301682',
-    image: '/klimaticheskoe-oborudovanie/4934.png',
+    image: '/klimaticheskoe_oborudovanie/4934.png',
   },
   {
     id: 4935,
@@ -2697,7 +2697,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая пушка -1 шт.; Руководство по эксплуатации и гарантийный таллон -1 шт.; Упаковка.',
     price: '9500',
     vendorCode: '04.000049',
-    image: '/klimaticheskoe-oborudovanie/4935.png',
+    image: '/klimaticheskoe_oborudovanie/4935.png',
   },
   {
     id: 4936,
@@ -2706,7 +2706,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы канальные ESQ ВКК М предназначены для применения в системах вентиляции промышленных, общественных и жилых зданий.',
     price: '9590',
     vendorCode: '03.05.218558',
-    image: '/klimaticheskoe-oborudovanie/4936.png',
+    image: '/klimaticheskoe_oborudovanie/4936.png',
   },
   {
     id: 4937,
@@ -2715,7 +2715,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Компдлект монтажных деталей - 1 шт; Руководство по эксплуатации - 1 шт; Упаковка - 1шт.',
     price: '9900',
     vendorCode: '04.07.01.214425',
-    image: '/klimaticheskoe-oborudovanie/4937.png',
+    image: '/klimaticheskoe_oborudovanie/4937.png',
   },
   {
     id: 4938,
@@ -2723,7 +2723,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '9900',
     vendorCode: '04.07.01.214379',
-    image: '/klimaticheskoe-oborudovanie/4938.png',
+    image: '/klimaticheskoe_oborudovanie/4938.png',
   },
   {
     id: 4939,
@@ -2739,7 +2739,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '10450',
     vendorCode: '03.06.301662',
-    image: '/klimaticheskoe-oborudovanie/4940.png',
+    image: '/klimaticheskoe_oborudovanie/4940.png',
   },
   {
     id: 4941,
@@ -2747,7 +2747,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '10450',
     vendorCode: '03.06.301676',
-    image: '/klimaticheskoe-oborudovanie/4941.png',
+    image: '/klimaticheskoe_oborudovanie/4941.png',
   },
   {
     id: 4942,
@@ -2755,7 +2755,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '10450',
     vendorCode: '03.06.301663',
-    image: '/klimaticheskoe-oborudovanie/4942.png',
+    image: '/klimaticheskoe_oborudovanie/4942.png',
   },
   {
     id: 4943,
@@ -2763,7 +2763,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '10650',
     vendorCode: '03.06.301683',
-    image: '/klimaticheskoe-oborudovanie/4943.png',
+    image: '/klimaticheskoe_oborudovanie/4943.png',
   },
   {
     id: 4944,
@@ -2771,7 +2771,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '10800',
     vendorCode: '04.000043',
-    image: '/klimaticheskoe-oborudovanie/4944.png',
+    image: '/klimaticheskoe_oborudovanie/4944.png',
   },
   {
     id: 4945,
@@ -2780,7 +2780,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы применяются в стационарных системах вентиляции, кондиционирования, воздушного отопления жилых, общественных и производственных зданий с сетью воздуховодов.',
     price: '10890',
     vendorCode: '03.05.217812',
-    image: '/klimaticheskoe-oborudovanie/4945.png',
+    image: '/klimaticheskoe_oborudovanie/4945.png',
   },
   {
     id: 4946,
@@ -2789,7 +2789,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы канальные ESQ ВКК М предназначены для применения в системах вентиляции промышленных, общественных и жилых зданий.',
     price: '10990',
     vendorCode: '03.05.218559',
-    image: '/klimaticheskoe-oborudovanie/4946.png',
+    image: '/klimaticheskoe_oborudovanie/4946.png',
   },
   {
     id: 4947,
@@ -2805,7 +2805,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '11000',
     vendorCode: '04.000054',
-    image: '/klimaticheskoe-oborudovanie/4948.png',
+    image: '/klimaticheskoe_oborudovanie/4948.png',
   },
   {
     id: 4949,
@@ -2814,7 +2814,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловентилятор - 1 шт.;\nРуководство по эксплуатации - 1 шт.;\nГарантийный талон - 1 шт.;\nУпаковка - 1 шт.',
     price: '11200',
     vendorCode: '04.01.01.000136',
-    image: '/klimaticheskoe-oborudovanie/4949.png',
+    image: '/klimaticheskoe_oborudovanie/4949.png',
   },
   {
     id: 4950,
@@ -2839,7 +2839,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы применяются в стационарных системах вентиляции, кондиционирования, воздушного отопления жилых, общественных и производственных зданий с сетью воздуховодов.',
     price: '12190',
     vendorCode: '03.05.217813',
-    image: '/klimaticheskoe-oborudovanie/4952.png',
+    image: '/klimaticheskoe_oborudovanie/4952.png',
   },
   {
     id: 4953,
@@ -2847,7 +2847,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая пушка -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '12300',
     vendorCode: '04.01.01.000128',
-    image: '/klimaticheskoe-oborudovanie/4953.png',
+    image: '/klimaticheskoe_oborudovanie/4953.png',
   },
   {
     id: 4954,
@@ -2855,7 +2855,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '12450',
     vendorCode: '03.06.301688',
-    image: '/klimaticheskoe-oborudovanie/4954.png',
+    image: '/klimaticheskoe_oborudovanie/4954.png',
   },
   {
     id: 4955,
@@ -2863,7 +2863,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '12450',
     vendorCode: '03.06.301677',
-    image: '/klimaticheskoe-oborudovanie/4955.png',
+    image: '/klimaticheskoe_oborudovanie/4955.png',
   },
   {
     id: 4956,
@@ -2871,7 +2871,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '12450',
     vendorCode: '03.06.301664',
-    image: '/klimaticheskoe-oborudovanie/4956.png',
+    image: '/klimaticheskoe_oborudovanie/4956.png',
   },
   {
     id: 4957,
@@ -2879,7 +2879,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '12450',
     vendorCode: '03.06.301684',
-    image: '/klimaticheskoe-oborudovanie/4957.png',
+    image: '/klimaticheskoe_oborudovanie/4957.png',
   },
   {
     id: 4958,
@@ -2887,7 +2887,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '12450',
     vendorCode: '03.06.301673',
-    image: '/klimaticheskoe-oborudovanie/4958.png',
+    image: '/klimaticheskoe_oborudovanie/4958.png',
   },
   {
     id: 4959,
@@ -2895,7 +2895,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая завеса - 1 шт; Инструкция - 1 шт; Упаковка - 1 шт.',
     price: '12500',
     vendorCode: '05.000036',
-    image: '/klimaticheskoe-oborudovanie/4959.png',
+    image: '/klimaticheskoe_oborudovanie/4959.png',
   },
   {
     id: 4960,
@@ -2903,7 +2903,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор - 1 шт.;\nРуководство по эксплуатации и гарантийный талон - 1 шт.;\nУпаковка - 1 шт.',
     price: '12500',
     vendorCode: '04.01.01.000143',
-    image: '/klimaticheskoe-oborudovanie/4960.png',
+    image: '/klimaticheskoe_oborudovanie/4960.png',
   },
   {
     id: 4961,
@@ -2912,7 +2912,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '12600',
     vendorCode: '04.07.01.214397',
-    image: '/klimaticheskoe-oborudovanie/4961.png',
+    image: '/klimaticheskoe_oborudovanie/4961.png',
   },
   {
     id: 4962,
@@ -2921,7 +2921,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Кольцо подвеса - 4 шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '13000',
     vendorCode: '04.07.01.214408',
-    image: '/klimaticheskoe-oborudovanie/4962.png',
+    image: '/klimaticheskoe_oborudovanie/4962.png',
   },
   {
     id: 4963,
@@ -2930,7 +2930,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '13000',
     vendorCode: '04.07.01.214398',
-    image: '/klimaticheskoe-oborudovanie/4963.png',
+    image: '/klimaticheskoe_oborudovanie/4963.png',
   },
   {
     id: 4964,
@@ -2939,7 +2939,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса RS-0508-D создает узко направленный поток воздуха, который снижает тепловые потери в жилых, небольших офисных и технических помещениях, препятствуя попаданию в них через окна и дверные проемы холодных воздушных масс с улицы. В жаркое время года при отключенном нагревательном элементе завесу можно использовать как барьер, не пропускающий в помещения теплый воздух, пыль, насекомых, дым и пр.\nЗавеса устанавливается над технологическими проемами (окна, двери) в горизонтальном положении и создает вертикальную воздушную преграду. Преимущество этой модели заключается в возможности ее использования в местах, где нет трехфазной системы энергоснабжения.\nТепловая завеса RS-0508-D может работать в трех режимах:\n• в полную мощность (3 кВт);\n• энергосберегающий (1,5 кВт);\n• вентиляция (при отключенных нагревательных элементах).\nУправление завесой RS-0508-D осуществляется клавишами, которые расположены на панели справа от решетки. На днище корпуса расположены пазы для крепления завесы на стене.',
     price: '13000',
     vendorCode: '04.03.01.214396',
-    image: '/klimaticheskoe-oborudovanie/4964.png',
+    image: '/klimaticheskoe_oborudovanie/4964.png',
   },
   {
     id: 4965,
@@ -2947,7 +2947,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '13000',
     vendorCode: '04.01.01.000123',
-    image: '/klimaticheskoe-oborudovanie/4965.png',
+    image: '/klimaticheskoe_oborudovanie/4965.png',
   },
   {
     id: 4966,
@@ -2956,7 +2956,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Газовый теплогенератор - 1 шт; Шланг газовый - 1 шт; Регулятор давления - 1 шт; Руководство по эксплуатации с гарантийным талоном - 1 шт; Ручка - 1 шт; Винт М4х14- 2 шт.',
     price: '13500',
     vendorCode: '04.06.05.000010',
-    image: '/klimaticheskoe-oborudovanie/4966.png',
+    image: '/klimaticheskoe_oborudovanie/4966.png',
   },
   {
     id: 4967,
@@ -2964,7 +2964,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая пушка -1 шт.; Руководство по эксплуатации и гарантийный таллон -1 шт.; Упаковка.',
     price: '13500',
     vendorCode: '04.000050',
-    image: '/klimaticheskoe-oborudovanie/4967.png',
+    image: '/klimaticheskoe_oborudovanie/4967.png',
   },
   {
     id: 4968,
@@ -2972,7 +2972,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая пушка -1 шт.; Руководство по эксплуатации и гарантийный таллон -1 шт.; Упаковка.',
     price: '14500',
     vendorCode: '04.000040',
-    image: '/klimaticheskoe-oborudovanie/4968.png',
+    image: '/klimaticheskoe_oborudovanie/4968.png',
   },
   {
     id: 4969,
@@ -2980,7 +2980,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '15000',
     vendorCode: '04.07.01.214380',
-    image: '/klimaticheskoe-oborudovanie/4969.png',
+    image: '/klimaticheskoe_oborudovanie/4969.png',
   },
   {
     id: 4970,
@@ -2988,7 +2988,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Инфракрасный обогреватель 1 шт.; Комплект креплений; Упаковка 1 шт.; Руководство по эксплуатации.',
     price: '15000',
     vendorCode: '04.07.01.214374',
-    image: '/klimaticheskoe-oborudovanie/4970.png',
+    image: '/klimaticheskoe_oborudovanie/4970.png',
   },
   {
     id: 4971,
@@ -2997,7 +2997,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы применяются в стационарных системах вентиляции, кондиционирования, воздушного отопления жилых, общественных и производственных зданий с сетью воздуховодов.',
     price: '15390',
     vendorCode: '03.05.217814',
-    image: '/klimaticheskoe-oborudovanie/4971.png',
+    image: '/klimaticheskoe_oborudovanie/4971.png',
   },
   {
     id: 4972,
@@ -3005,7 +3005,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '16390',
     vendorCode: '03.06.301674',
-    image: '/klimaticheskoe-oborudovanie/4972.png',
+    image: '/klimaticheskoe_oborudovanie/4972.png',
   },
   {
     id: 4973,
@@ -3013,7 +3013,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '16390',
     vendorCode: '03.06.301678',
-    image: '/klimaticheskoe-oborudovanie/4973.png',
+    image: '/klimaticheskoe_oborudovanie/4973.png',
   },
   {
     id: 4974,
@@ -3021,7 +3021,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '16520',
     vendorCode: '03.06.301689',
-    image: '/klimaticheskoe-oborudovanie/4974.png',
+    image: '/klimaticheskoe_oborudovanie/4974.png',
   },
   {
     id: 4975,
@@ -3029,7 +3029,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '16520',
     vendorCode: '03.06.301685',
-    image: '/klimaticheskoe-oborudovanie/4975.png',
+    image: '/klimaticheskoe_oborudovanie/4975.png',
   },
   {
     id: 4976,
@@ -3038,7 +3038,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Кольцо подвеса - 4 шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '17400',
     vendorCode: '04.07.01.214409',
-    image: '/klimaticheskoe-oborudovanie/4976.png',
+    image: '/klimaticheskoe_oborudovanie/4976.png',
   },
   {
     id: 4977,
@@ -3046,7 +3046,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Вентилятор в сборе - 1 шт;\nПаспорт - 1 экз.',
     price: '17794',
     vendorCode: '03.01.218876',
-    image: '/klimaticheskoe-oborudovanie/4977.png',
+    image: '/klimaticheskoe_oborudovanie/4977.png',
   },
   {
     id: 4978,
@@ -3055,7 +3055,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор ВО 06-300 предназначены для работы в системах вентиляции промышленных и общественных зданий невзрывоопасных газовоздушных смесей с содержанием пыли и других\nтвердых примесей. Вентиляторы могут устанавливаться как внутри здания, так и на кровле.',
     price: '17794',
     vendorCode: '03.01.001607',
-    image: '/klimaticheskoe-oborudovanie/4978.png',
+    image: '/klimaticheskoe_oborudovanie/4978.png',
   },
   {
     id: 4979,
@@ -3071,7 +3071,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '18000',
     vendorCode: '04.07.01.214381',
-    image: '/klimaticheskoe-oborudovanie/4980.png',
+    image: '/klimaticheskoe_oborudovanie/4980.png',
   },
   {
     id: 4981,
@@ -3080,7 +3080,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса RP-0610-DY предназначена для создания узкого направленного теплого потока воздуха, который препятствует проникновению холодного наружного воздуха внутрь помещения и для поддержания комфортной температуры в зоне установки завесы. Устанавливается над кассовыми окнами, стандартными дверными проемами в жилых и офисных помещениях.\nВ теплое и жаркое время года при отключенных нагревательных элементах завеса может использоваться для защиты помещений с установленными кондиционерами от проникновения теплого наружного воздуха, а также\nпыли, дыма, насекомых. Эксплуатация возможна только при горизонтальной установке над проемами. Управление от выносного пульта.',
     price: '19000',
     vendorCode: '04.03.01.214397',
-    image: '/klimaticheskoe-oborudovanie/4981.png',
+    image: '/klimaticheskoe_oborudovanie/4981.png',
   },
   {
     id: 4982,
@@ -3088,7 +3088,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '19200',
     vendorCode: '04.07.01.214399',
-    image: '/klimaticheskoe-oborudovanie/4982.png',
+    image: '/klimaticheskoe_oborudovanie/4982.png',
   },
   {
     id: 4983,
@@ -3096,7 +3096,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт.; Упаковка - 1 шт.',
     price: '19800',
     vendorCode: '05.000093',
-    image: '/klimaticheskoe-oborudovanie/4983.png',
+    image: '/klimaticheskoe_oborudovanie/4983.png',
   },
   {
     id: 4984,
@@ -3112,7 +3112,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '20150',
     vendorCode: '03.06.301686',
-    image: '/klimaticheskoe-oborudovanie/4985.png',
+    image: '/klimaticheskoe_oborudovanie/4985.png',
   },
   {
     id: 4986,
@@ -3120,7 +3120,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '20150',
     vendorCode: '03.06.301690',
-    image: '/klimaticheskoe-oborudovanie/4986.png',
+    image: '/klimaticheskoe_oborudovanie/4986.png',
   },
   {
     id: 4987,
@@ -3128,7 +3128,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Вентилятор в сборе - 1 шт;\nПаспорт - 1 экз.',
     price: '20442',
     vendorCode: '03.01.218877',
-    image: '/klimaticheskoe-oborudovanie/4987.png',
+    image: '/klimaticheskoe_oborudovanie/4987.png',
   },
   {
     id: 4988,
@@ -3137,7 +3137,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор ВО 06-300 предназначены для работы в системах вентиляции промышленных и общественных зданий невзрывоопасных газовоздушных смесей с содержанием пыли и других\nтвердых примесей. Вентиляторы могут устанавливаться как внутри здания, так и на кровле.',
     price: '20442',
     vendorCode: '03.01.001573',
-    image: '/klimaticheskoe-oborudovanie/4988.png',
+    image: '/klimaticheskoe_oborudovanie/4988.png',
   },
   {
     id: 4989,
@@ -3146,7 +3146,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловентилятор - 1 шт.;\nРуководство по эксплуатации - 1 шт.;\nГарантийный талон - 1 шт.;\nУпаковка - 1 шт.',
     price: '20500',
     vendorCode: '04.01.01.000137',
-    image: '/klimaticheskoe-oborudovanie/4989.png',
+    image: '/klimaticheskoe_oborudovanie/4989.png',
   },
   {
     id: 4990,
@@ -3154,7 +3154,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '20900',
     vendorCode: '04.000041',
-    image: '/klimaticheskoe-oborudovanie/4990.png',
+    image: '/klimaticheskoe_oborudovanie/4990.png',
   },
   {
     id: 4991,
@@ -3163,7 +3163,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Кольцо подвеса - 4 шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '21400',
     vendorCode: '04.07.01.214410',
-    image: '/klimaticheskoe-oborudovanie/4991.png',
+    image: '/klimaticheskoe_oborudovanie/4991.png',
   },
   {
     id: 4992,
@@ -3221,7 +3221,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Водяной калорифер -1 шт.; Руководство по эксплуатации и гарантийный таллон -1 шт.; Упаковка.',
     price: '22500',
     vendorCode: '03.06.000008',
-    image: '/klimaticheskoe-oborudovanie/4998.png',
+    image: '/klimaticheskoe_oborudovanie/4998.png',
   },
   {
     id: 4999,
@@ -3229,7 +3229,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '22630',
     vendorCode: '03.06.301665',
-    image: '/klimaticheskoe-oborudovanie/4999.png',
+    image: '/klimaticheskoe_oborudovanie/4999.png',
   },
   {
     id: 5000,
@@ -3320,7 +3320,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '24603',
     vendorCode: '03.02.000504',
-    image: '/klimaticheskoe-oborudovanie/5010.png',
+    image: '/klimaticheskoe_oborudovanie/5010.png',
   },
   {
     id: 5011,
@@ -3328,7 +3328,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '24900',
     vendorCode: '04.01.01.000124',
-    image: '/klimaticheskoe-oborudovanie/5011.png',
+    image: '/klimaticheskoe_oborudovanie/5011.png',
   },
   {
     id: 5012,
@@ -3336,7 +3336,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '25000',
     vendorCode: '05.000087',
-    image: '/klimaticheskoe-oborudovanie/5012.png',
+    image: '/klimaticheskoe_oborudovanie/5012.png',
   },
   {
     id: 5013,
@@ -3345,7 +3345,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая пушка - 1 шт.;\nОпора с ручкой - 1 компл.;\nКабельный ввод - 1 шт.;\nРуководство по эксплуатации - 1 шт.',
     price: '25500',
     vendorCode: '04.01.01.000144',
-    image: '/klimaticheskoe-oborudovanie/5013.png',
+    image: '/klimaticheskoe_oborudovanie/5013.png',
   },
   {
     id: 5014,
@@ -3378,7 +3378,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Вентилятор в сборе - 1 шт;\nПаспорт - 1 экз.',
     price: '25672',
     vendorCode: '03.01.218879',
-    image: '/klimaticheskoe-oborudovanie/5017.png',
+    image: '/klimaticheskoe_oborudovanie/5017.png',
   },
   {
     id: 5018,
@@ -3387,7 +3387,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор ВО 06-300 предназначены для работы в системах вентиляции промышленных и общественных зданий невзрывоопасных газовоздушных смесей с содержанием пыли и других\nтвердых примесей. Вентиляторы могут устанавливаться как внутри здания, так и на кровле.',
     price: '25672',
     vendorCode: '03.01.001661',
-    image: '/klimaticheskoe-oborudovanie/5018.png',
+    image: '/klimaticheskoe_oborudovanie/5018.png',
   },
   {
     id: 5019,
@@ -3395,7 +3395,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '25790',
     vendorCode: '03.06.301691',
-    image: '/klimaticheskoe-oborudovanie/5019.png',
+    image: '/klimaticheskoe_oborudovanie/5019.png',
   },
   {
     id: 5020,
@@ -3403,7 +3403,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '25790',
     vendorCode: '03.06.301687',
-    image: '/klimaticheskoe-oborudovanie/5020.png',
+    image: '/klimaticheskoe_oborudovanie/5020.png',
   },
   {
     id: 5021,
@@ -3411,7 +3411,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Вентилятор в сборе - 1 шт;\nПаспорт - 1 экз.',
     price: '25969',
     vendorCode: '03.01.218878',
-    image: '/klimaticheskoe-oborudovanie/5021.png',
+    image: '/klimaticheskoe_oborudovanie/5021.png',
   },
   {
     id: 5022,
@@ -3420,7 +3420,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор ВО 06-300 предназначены для работы в системах вентиляции промышленных и общественных зданий невзрывоопасных газовоздушных смесей с содержанием пыли и других\nтвердых примесей. Вентиляторы могут устанавливаться как внутри здания, так и на кровле.',
     price: '25969',
     vendorCode: '03.01.001659',
-    image: '/klimaticheskoe-oborudovanie/5022.png',
+    image: '/klimaticheskoe_oborudovanie/5022.png',
   },
   {
     id: 5023,
@@ -3428,7 +3428,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '26000',
     vendorCode: '04.06.05.000005',
-    image: '/klimaticheskoe-oborudovanie/5023.png',
+    image: '/klimaticheskoe_oborudovanie/5023.png',
   },
   {
     id: 5024,
@@ -3444,7 +3444,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '26379',
     vendorCode: '06.000057',
-    image: '/klimaticheskoe-oborudovanie/5025.png',
+    image: '/klimaticheskoe_oborudovanie/5025.png',
   },
   {
     id: 5026,
@@ -3452,7 +3452,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '26500',
     vendorCode: '04.000051',
-    image: '/klimaticheskoe-oborudovanie/5026.png',
+    image: '/klimaticheskoe_oborudovanie/5026.png',
   },
   {
     id: 5027,
@@ -3461,7 +3461,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса RP-0915-3DY предназначена для создания узкого направленного теплого потока воздуха, который препятствует проникновению холодного наружного воздуха внутрь помещения и для поддержания комфортной температуры в зоне установки завесы. Устанавливается над кассовыми окнами, стандартными дверными проемами в жилых и офисных помещениях.\nВ теплое и жаркое время года при отключенных нагревательных элементах завеса может использоваться для защиты помещений с установленными кондиционерами от проникновения теплого наружного воздуха, а также\nпыли, дыма, насекомых. Эксплуатация возможна только при горизонтальной установке над проемами. Управление от выносного пульта.',
     price: '27000',
     vendorCode: '04.03.01.214398',
-    image: '/klimaticheskoe-oborudovanie/5027.png',
+    image: '/klimaticheskoe_oborudovanie/5027.png',
   },
   {
     id: 5028,
@@ -3469,7 +3469,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Вентилятор в сборе - 1 шт;\nПаспорт - 1 экз.',
     price: '27244',
     vendorCode: '03.01.218880',
-    image: '/klimaticheskoe-oborudovanie/5028.png',
+    image: '/klimaticheskoe_oborudovanie/5028.png',
   },
   {
     id: 5029,
@@ -3478,7 +3478,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор ВО 06-300 предназначены для работы в системах вентиляции промышленных и общественных зданий невзрывоопасных газовоздушных смесей с содержанием пыли и других\nтвердых примесей. Вентиляторы могут устанавливаться как внутри здания, так и на кровле.',
     price: '27244',
     vendorCode: '03.000010',
-    image: '/klimaticheskoe-oborudovanie/5029.png',
+    image: '/klimaticheskoe_oborudovanie/5029.png',
   },
   {
     id: 5030,
@@ -3486,7 +3486,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт.; Упаковка - 1 шт.',
     price: '27500',
     vendorCode: '05.000094',
-    image: '/klimaticheskoe-oborudovanie/5030.png',
+    image: '/klimaticheskoe_oborudovanie/5030.png',
   },
   {
     id: 5031,
@@ -3494,7 +3494,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '28000',
     vendorCode: '04.000045',
-    image: '/klimaticheskoe-oborudovanie/5031.png',
+    image: '/klimaticheskoe_oborudovanie/5031.png',
   },
   {
     id: 5032,
@@ -3536,7 +3536,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт.; Упаковка - 1 шт.',
     price: '29000',
     vendorCode: '05.000040',
-    image: '/klimaticheskoe-oborudovanie/5036.png',
+    image: '/klimaticheskoe_oborudovanie/5036.png',
   },
   {
     id: 5037,
@@ -3545,7 +3545,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловентилятор - 1 шт.;\nРуководство по эксплуатации - 1 шт.;\nГарантийный талон - 1 шт.;\nУпаковка - 1 шт.',
     price: '29000',
     vendorCode: '04.01.01.000138',
-    image: '/klimaticheskoe-oborudovanie/5037.png',
+    image: '/klimaticheskoe_oborudovanie/5037.png',
   },
   {
     id: 5038,
@@ -3587,7 +3587,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '29409',
     vendorCode: '03.02.216885',
-    image: '/klimaticheskoe-oborudovanie/5042.png',
+    image: '/klimaticheskoe_oborudovanie/5042.png',
   },
   {
     id: 5043,
@@ -3595,7 +3595,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '30000',
     vendorCode: '04.06.05.000006',
-    image: '/klimaticheskoe-oborudovanie/5043.png',
+    image: '/klimaticheskoe_oborudovanie/5043.png',
   },
   {
     id: 5044,
@@ -3629,7 +3629,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '30113',
     vendorCode: '03.02.000538',
-    image: '/klimaticheskoe-oborudovanie/5047.png',
+    image: '/klimaticheskoe_oborudovanie/5047.png',
   },
   {
     id: 5048,
@@ -3637,7 +3637,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '31000',
     vendorCode: '04.01.01.000125',
-    image: '/klimaticheskoe-oborudovanie/5048.png',
+    image: '/klimaticheskoe_oborudovanie/5048.png',
   },
   {
     id: 5049,
@@ -3680,7 +3680,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Инфракрасный обогреватель - 1шт.; Кольцо подвеса - 4 шт.; Руководство по эксплуатации и гарантийный таллон - 1 шт; Упаковка - 1шт.',
     price: '31600',
     vendorCode: '04.07.01.214411',
-    image: '/klimaticheskoe-oborudovanie/5053.png',
+    image: '/klimaticheskoe_oborudovanie/5053.png',
   },
   {
     id: 5054,
@@ -3689,7 +3689,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт; кронштейны для подвеса - 2 шт.; Кабельный ввод - 2 шт.; Упаковка - 1 шт',
     price: '32000',
     vendorCode: '04.03.01.214408',
-    image: '/klimaticheskoe-oborudovanie/5054.png',
+    image: '/klimaticheskoe_oborudovanie/5054.png',
   },
   {
     id: 5055,
@@ -3698,7 +3698,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая пушка - 1 шт.;\nОсь с колосами - 1 компл.:\nОпора с ручкой - 1 компл.;\nКабельный ввод - 1 шт.;\nРуководство по эксплуатации - 1 шт.',
     price: '32000',
     vendorCode: '04.01.01.000145',
-    image: '/klimaticheskoe-oborudovanie/5055.png',
+    image: '/klimaticheskoe_oborudovanie/5055.png',
   },
   {
     id: 5056,
@@ -3707,7 +3707,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '32705',
     vendorCode: '03.02.001583',
-    image: '/klimaticheskoe-oborudovanie/5056.png',
+    image: '/klimaticheskoe_oborudovanie/5056.png',
   },
   {
     id: 5057,
@@ -3716,7 +3716,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт; кронштейны для подвеса - 2 шт.; Кабельный ввод - 2 шт.; Упаковка - 1 шт',
     price: '33000',
     vendorCode: '04.03.01.214409',
-    image: '/klimaticheskoe-oborudovanie/5057.png',
+    image: '/klimaticheskoe_oborudovanie/5057.png',
   },
   {
     id: 5058,
@@ -3767,7 +3767,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая пушка -1 шт.; Руководство по эксплуатации и гарантийный таллон -1 шт.; Упаковка.',
     price: '36000',
     vendorCode: '04.000098',
-    image: '/klimaticheskoe-oborudovanie/5063.png',
+    image: '/klimaticheskoe_oborudovanie/5063.png',
   },
   {
     id: 5064,
@@ -3776,7 +3776,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая пушка - 1 шт.;\nОсь с колосами - 1 компл.:\nОпора с ручкой - 1 компл.;\nКабельный ввод - 1 шт.;\nРуководство по эксплуатации - 1 шт.',
     price: '36000',
     vendorCode: '04.01.01.000146',
-    image: '/klimaticheskoe-oborudovanie/5064.png',
+    image: '/klimaticheskoe_oborudovanie/5064.png',
   },
   {
     id: 5065,
@@ -3784,7 +3784,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '36000',
     vendorCode: '04.01.01.000126',
-    image: '/klimaticheskoe-oborudovanie/5065.png',
+    image: '/klimaticheskoe_oborudovanie/5065.png',
   },
   {
     id: 5066,
@@ -3809,7 +3809,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '36509',
     vendorCode: '03.02.000516',
-    image: '/klimaticheskoe-oborudovanie/5068.png',
+    image: '/klimaticheskoe_oborudovanie/5068.png',
   },
   {
     id: 5069,
@@ -3876,7 +3876,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт.; Упаковка - 1 шт.',
     price: '38000',
     vendorCode: '05.000041',
-    image: '/klimaticheskoe-oborudovanie/5076.png',
+    image: '/klimaticheskoe_oborudovanie/5076.png',
   },
   {
     id: 5077,
@@ -3885,7 +3885,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловентилятор - 1 шт.;\nРуководство по эксплуатации - 1 шт.;\nГарантийный талон - 1 шт.;\nУпаковка - 1 шт.',
     price: '38000',
     vendorCode: '04.01.01.000139',
-    image: '/klimaticheskoe-oborudovanie/5077.png',
+    image: '/klimaticheskoe_oborudovanie/5077.png',
   },
   {
     id: 5078,
@@ -3893,7 +3893,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловентилятор -1 шт.; Руководство по эксплуатации -1 шт.; Упаковка.',
     price: '38000',
     vendorCode: '04.000046',
-    image: '/klimaticheskoe-oborudovanie/5078.png',
+    image: '/klimaticheskoe_oborudovanie/5078.png',
   },
   {
     id: 5079,
@@ -3901,7 +3901,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая пушка -1 шт.; Руководство по эксплуатации и гарантийный таллон -1 шт.; Упаковка.',
     price: '38500',
     vendorCode: '04.000099',
-    image: '/klimaticheskoe-oborudovanie/5079.png',
+    image: '/klimaticheskoe_oborudovanie/5079.png',
   },
   {
     id: 5080,
@@ -3927,7 +3927,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '38657',
     vendorCode: '03.02.216887',
-    image: '/klimaticheskoe-oborudovanie/5082.png',
+    image: '/klimaticheskoe_oborudovanie/5082.png',
   },
   {
     id: 5083,
@@ -3970,7 +3970,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '39733',
     vendorCode: '03.02.000499',
-    image: '/klimaticheskoe-oborudovanie/5087.png',
+    image: '/klimaticheskoe_oborudovanie/5087.png',
   },
   {
     id: 5088,
@@ -4003,7 +4003,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Вентилятор в сборе - 1 шт;\nПаспорт - 1 экз.',
     price: '40242',
     vendorCode: '03.01.218881',
-    image: '/klimaticheskoe-oborudovanie/5091.png',
+    image: '/klimaticheskoe_oborudovanie/5091.png',
   },
   {
     id: 5092,
@@ -4012,7 +4012,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор ВО 06-300 предназначены для работы в системах вентиляции промышленных и общественных зданий невзрывоопасных газовоздушных смесей с содержанием пыли и других\nтвердых примесей. Вентиляторы могут устанавливаться как внутри здания, так и на кровле.',
     price: '40242',
     vendorCode: '03.01.001811',
-    image: '/klimaticheskoe-oborudovanie/5092.png',
+    image: '/klimaticheskoe_oborudovanie/5092.png',
   },
   {
     id: 5093,
@@ -4021,7 +4021,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловентилятор - 1 шт.;\nРуководство по эксплуатации - 1 шт.;\nГарантийный талон - 1 шт.;\nУпаковка - 1 шт.',
     price: '41000',
     vendorCode: '04.01.01.000140',
-    image: '/klimaticheskoe-oborudovanie/5093.png',
+    image: '/klimaticheskoe_oborudovanie/5093.png',
   },
   {
     id: 5094,
@@ -4029,7 +4029,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '41106',
     vendorCode: '03.01.218882',
-    image: '/klimaticheskoe-oborudovanie/5094.png',
+    image: '/klimaticheskoe_oborudovanie/5094.png',
   },
   {
     id: 5095,
@@ -4037,7 +4037,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '41106',
     vendorCode: '03.01.001765',
-    image: '/klimaticheskoe-oborudovanie/5095.png',
+    image: '/klimaticheskoe_oborudovanie/5095.png',
   },
   {
     id: 5096,
@@ -4045,7 +4045,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '42000',
     vendorCode: '04.06.05.000007',
-    image: '/klimaticheskoe-oborudovanie/5096.png',
+    image: '/klimaticheskoe_oborudovanie/5096.png',
   },
   {
     id: 5097,
@@ -4053,7 +4053,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт.; Упаковка - 1 шт.',
     price: '43000',
     vendorCode: '05.000042',
-    image: '/klimaticheskoe-oborudovanie/5097.png',
+    image: '/klimaticheskoe_oborudovanie/5097.png',
   },
   {
     id: 5098,
@@ -4086,7 +4086,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы радиальные среднего давления ООО «Элком» применяются в системах отопления, кондиционирования и вентиляции помещений различного назначения.',
     price: '43456',
     vendorCode: '03.02.000533',
-    image: '/klimaticheskoe-oborudovanie/5101.png',
+    image: '/klimaticheskoe_oborudovanie/5101.png',
   },
   {
     id: 5102,
@@ -4095,7 +4095,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт; кронштейны для подвеса - 2 шт.; Кабельный ввод - 2 шт.; Упаковка - 1 шт',
     price: '44000',
     vendorCode: '04.03.01.214410',
-    image: '/klimaticheskoe-oborudovanie/5102.png',
+    image: '/klimaticheskoe_oborudovanie/5102.png',
   },
   {
     id: 5103,
@@ -4120,7 +4120,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '45358',
     vendorCode: '03.02.001605',
-    image: '/klimaticheskoe-oborudovanie/5105.png',
+    image: '/klimaticheskoe_oborudovanie/5105.png',
   },
   {
     id: 5106,
@@ -4171,7 +4171,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт; кронштейны для подвеса - 2 шт.; Кабельный ввод - 2 шт.; Упаковка - 1 шт',
     price: '46000',
     vendorCode: '04.03.01.214411',
-    image: '/klimaticheskoe-oborudovanie/5111.png',
+    image: '/klimaticheskoe_oborudovanie/5111.png',
   },
   {
     id: 5112,
@@ -4179,7 +4179,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Водяной калорифер -1 шт.; Руководство по эксплуатации и гарантийный таллон -1 шт.; Упаковка.',
     price: '47000',
     vendorCode: '06.000046',
-    image: '/klimaticheskoe-oborudovanie/5112.png',
+    image: '/klimaticheskoe_oborudovanie/5112.png',
   },
   {
     id: 5113,
@@ -4188,7 +4188,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт; кронштейны для подвеса - 2 шт.; Кабельный ввод - 2 шт.; Упаковка - 1 шт',
     price: '47000',
     vendorCode: '05.000069',
-    image: '/klimaticheskoe-oborudovanie/5113.png',
+    image: '/klimaticheskoe_oborudovanie/5113.png',
   },
   {
     id: 5114,
@@ -4213,7 +4213,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '48226',
     vendorCode: '03.02.000624',
-    image: '/klimaticheskoe-oborudovanie/5116.png',
+    image: '/klimaticheskoe_oborudovanie/5116.png',
   },
   {
     id: 5117,
@@ -4247,7 +4247,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦП 7-40 предназначены для перемещения газовоздушной среды, содержащей повышенную концентрацию пыли и других механических твердых примесей. Вентиляторы типа ВЦП 7-40 применяются для удаления древесных стружек и опилок, отсоса металлической пыли от станков, системы пневмотранспорта зерна и при производстве круп, удаление пыли и шлаков при сварочном производстве, системы отбора запыленного воздуха при производстве цемента и железобетонных конструкций и в других видах применения.',
     price: '52001',
     vendorCode: '03.08.217970',
-    image: '/klimaticheskoe-oborudovanie/5120.png',
+    image: '/klimaticheskoe_oborudovanie/5120.png',
   },
   {
     id: 5121,
@@ -4265,7 +4265,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса RT-1220-3.5-Y со стальным прочным корпусом создает узко направленный поток воздуха, который снижает тепловые потери в жилых, производственных, офисных и технических помещениях, препятствуя попаданию в них через окна и дверные проемы холодных воздушных масс с улицы. В жаркое время года при отключенном нагревательном элементе завесу можно использовать как барьер, не пропускающий в помещения теплый воздух, пыль, насекомых, дым и пр.\nЗавеса устанавливается над технологическими проемами (окна, двери) в горизонтальном или вертикальном положении и создает отвесную или боковую воздушную преграду. При необходимости агрегат можно прикрепить с обеих сторон от проема. Данная модель рассчитана на эксплуатацию в местах с трехфазной системой энергоснабжения.\nТепловая завеса RT-1220-3.5-Y может работать в трех режимах:\n• в полную мощность (12 кВт);\n• энергосберегающий (6 кВт);\n• вентиляция (при отключенных нагревательных элементах).\nУправление завесой выполняется с помощью выносного пульта со встроенным термостатом. Это позволяет регулировать мощность нагревательных элементов и температуру воздушного барьера. Серия RT производителя представлена агрегатами, предназначенными для установки в проемы высотой до 3,5 метров.',
     price: '53000',
     vendorCode: '04.03.01.214412',
-    image: '/klimaticheskoe-oborudovanie/5122.png',
+    image: '/klimaticheskoe_oborudovanie/5122.png',
   },
   {
     id: 5123,
@@ -4291,7 +4291,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '55000',
     vendorCode: '04.01.01.000129',
-    image: '/klimaticheskoe-oborudovanie/5125.png',
+    image: '/klimaticheskoe_oborudovanie/5125.png',
   },
   {
     id: 5126,
@@ -4300,7 +4300,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦП 7-40 предназначены для перемещения газовоздушной среды, содержащей повышенную концентрацию пыли и других механических твердых примесей. Вентиляторы типа ВЦП 7-40 применяются для удаления древесных стружек и опилок, отсоса металлической пыли от станков, системы пневмотранспорта зерна и при производстве круп, удаление пыли и шлаков при сварочном производстве, системы отбора запыленного воздуха при производстве цемента и железобетонных конструкций и в других видах применения.',
     price: '55142',
     vendorCode: '03.08.217972',
-    image: '/klimaticheskoe-oborudovanie/5126.png',
+    image: '/klimaticheskoe_oborudovanie/5126.png',
   },
   {
     id: 5127,
@@ -4309,7 +4309,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт; кронштейны для подвеса - 2 шт.; Кабельный ввод - 2 шт.; Упаковка - 1 шт',
     price: '56000',
     vendorCode: '04.03.01.214413',
-    image: '/klimaticheskoe-oborudovanie/5127.png',
+    image: '/klimaticheskoe_oborudovanie/5127.png',
   },
   {
     id: 5128,
@@ -4334,7 +4334,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Водяной калорифер -1 шт.; Руководство по эксплуатации и гарантийный таллон -1 шт.; Упаковка.',
     price: '60000',
     vendorCode: '06.000049',
-    image: '/klimaticheskoe-oborudovanie/5130.png',
+    image: '/klimaticheskoe_oborudovanie/5130.png',
   },
   {
     id: 5131,
@@ -4343,7 +4343,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт; кронштейны для подвеса - 2 шт.; Кабельный ввод - 2 шт.; Упаковка - 1 шт',
     price: '60000',
     vendorCode: '05.000067',
-    image: '/klimaticheskoe-oborudovanie/5131.png',
+    image: '/klimaticheskoe_oborudovanie/5131.png',
   },
   {
     id: 5132,
@@ -4352,7 +4352,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Воздушно-тепловая завеса RM-2420-3D-Y предназначена для создания узкого направленного воздушного потока, препятствующего проникновению внутрь помещения холодного наружного воздуха и снижения тепловых потерь в помещении.\nПри отключенных электронагревателях завеса может быть использована в летнее время для защиты кондиционируемого воздуха от проникновения внутрь теплого наружного воздуха, пыли, дыма, насекомых и т.п.',
     price: '60000',
     vendorCode: '04.03.01.214404',
-    image: '/klimaticheskoe-oborudovanie/5132.png',
+    image: '/klimaticheskoe_oborudovanie/5132.png',
   },
   {
     id: 5133,
@@ -4361,7 +4361,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦП 7-40 предназначены для перемещения газовоздушной среды, содержащей повышенную концентрацию пыли и других механических твердых примесей. Вентиляторы типа ВЦП 7-40 применяются для удаления древесных стружек и опилок, отсоса металлической пыли от станков, системы пневмотранспорта зерна и при производстве круп, удаление пыли и шлаков при сварочном производстве, системы отбора запыленного воздуха при производстве цемента и железобетонных конструкций и в других видах применения.',
     price: '60130',
     vendorCode: '03.08.217974',
-    image: '/klimaticheskoe-oborudovanie/5133.png',
+    image: '/klimaticheskoe_oborudovanie/5133.png',
   },
   {
     id: 5134,
@@ -4387,7 +4387,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт; кронштейны для подвеса - 2 шт.; Кабельный ввод - 2 шт.; Упаковка - 1 шт',
     price: '62000',
     vendorCode: '04.03.01.214414',
-    image: '/klimaticheskoe-oborudovanie/5136.png',
+    image: '/klimaticheskoe_oborudovanie/5136.png',
   },
   {
     id: 5137,
@@ -4412,7 +4412,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '64153',
     vendorCode: '03.02.216890',
-    image: '/klimaticheskoe-oborudovanie/5139.png',
+    image: '/klimaticheskoe_oborudovanie/5139.png',
   },
   {
     id: 5140,
@@ -4421,7 +4421,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрокалорифер (без питающего кабеля) - 1шт; Руководство по эксплуатации - 1шт; Упаковка (коробка из гофрокартона и обрешетка) - 1шт.',
     price: '65000',
     vendorCode: '04.01.01.000131',
-    image: '/klimaticheskoe-oborudovanie/5140.png',
+    image: '/klimaticheskoe_oborudovanie/5140.png',
   },
   {
     id: 5141,
@@ -4446,7 +4446,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '66885',
     vendorCode: '03.02.000672',
-    image: '/klimaticheskoe-oborudovanie/5143.png',
+    image: '/klimaticheskoe_oborudovanie/5143.png',
   },
   {
     id: 5144,
@@ -4480,7 +4480,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы радиальные среднего давления ООО «Элком» применяются в системах отопления, кондиционирования и вентиляции помещений различного назначения.',
     price: '68152',
     vendorCode: '03.02.0003230',
-    image: '/klimaticheskoe-oborudovanie/5147.png',
+    image: '/klimaticheskoe_oborudovanie/5147.png',
   },
   {
     id: 5148,
@@ -4506,7 +4506,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Вентилятор в сборе - 1 шт;\nПаспорт - 1 экз.',
     price: '69076',
     vendorCode: '03.01.218883',
-    image: '/klimaticheskoe-oborudovanie/5150.png',
+    image: '/klimaticheskoe_oborudovanie/5150.png',
   },
   {
     id: 5151,
@@ -4515,7 +4515,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентилятор ВО 06-300 предназначены для работы в системах вентиляции промышленных и общественных зданий невзрывоопасных газовоздушных смесей с содержанием пыли и других\nтвердых примесей. Вентиляторы могут устанавливаться как внутри здания, так и на кровле.',
     price: '69076',
     vendorCode: '03.01.001637',
-    image: '/klimaticheskoe-oborudovanie/5151.png',
+    image: '/klimaticheskoe_oborudovanie/5151.png',
   },
   {
     id: 5152,
@@ -4532,7 +4532,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы радиальные среднего давления ООО «Элком» применяются в системах отопления, кондиционирования и вентиляции помещений различного назначения.',
     price: '69800',
     vendorCode: '03.02.000298',
-    image: '/klimaticheskoe-oborudovanie/5153.png',
+    image: '/klimaticheskoe_oborudovanie/5153.png',
   },
   {
     id: 5154,
@@ -4550,7 +4550,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦП 7-40 предназначены для перемещения газовоздушной среды, содержащей повышенную концентрацию пыли и других механических твердых примесей. Вентиляторы типа ВЦП 7-40 применяются для удаления древесных стружек и опилок, отсоса металлической пыли от станков, системы пневмотранспорта зерна и при производстве круп, удаление пыли и шлаков при сварочном производстве, системы отбора запыленного воздуха при производстве цемента и железобетонных конструкций и в других видах применения.',
     price: '70131',
     vendorCode: '03.08.217976',
-    image: '/klimaticheskoe-oborudovanie/5155.png',
+    image: '/klimaticheskoe_oborudovanie/5155.png',
   },
   {
     id: 5156,
@@ -4601,7 +4601,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Тепловая завеса - 1 шт; Инструкция - 1 шт; Пульт управления- 1 шт; кронштейны для подвеса - 2 шт.; Кабельный ввод - 2 шт.; Упаковка - 1 шт',
     price: '78000',
     vendorCode: '05.000068',
-    image: '/klimaticheskoe-oborudovanie/5161.png',
+    image: '/klimaticheskoe_oborudovanie/5161.png',
   },
   {
     id: 5162,
@@ -4609,7 +4609,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '80000',
     vendorCode: '04.06.05.000026',
-    image: '/klimaticheskoe-oborudovanie/5162.png',
+    image: '/klimaticheskoe_oborudovanie/5162.png',
   },
   {
     id: 5163,
@@ -4618,7 +4618,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Электрокалорифер (без питающего кабеля) - 1шт; Руководство по эксплуатации - 1шт; Упаковка (коробка из гофрокартона и обрешетка) - 1шт.',
     price: '80000',
     vendorCode: '04.01.01.000132',
-    image: '/klimaticheskoe-oborudovanie/5163.png',
+    image: '/klimaticheskoe_oborudovanie/5163.png',
   },
   {
     id: 5164,
@@ -4644,7 +4644,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Электрокалорифер - 1 шт; Паспорт, руководство по эксплуатации - 1 шт; Упаковка - 1 шт.',
     price: '85000',
     vendorCode: '04.01.01.000130',
-    image: '/klimaticheskoe-oborudovanie/5166.png',
+    image: '/klimaticheskoe_oborudovanie/5166.png',
   },
   {
     id: 5167,
@@ -4653,7 +4653,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '86177',
     vendorCode: '03.02.000098',
-    image: '/klimaticheskoe-oborudovanie/5167.png',
+    image: '/klimaticheskoe_oborudovanie/5167.png',
   },
   {
     id: 5168,
@@ -4661,7 +4661,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: 'Водяной калорифер -1 шт.; Руководство по эксплуатации и гарантийный таллон -1 шт.; Упаковка.',
     price: '88500',
     vendorCode: '06.000006',
-    image: '/klimaticheskoe-oborudovanie/5168.png',
+    image: '/klimaticheskoe_oborudovanie/5168.png',
   },
   {
     id: 5169,
@@ -4670,7 +4670,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦП 7-40 предназначены для перемещения газовоздушной среды, содержащей повышенную концентрацию пыли и других механических твердых примесей. Вентиляторы типа ВЦП 7-40 применяются для удаления древесных стружек и опилок, отсоса металлической пыли от станков, системы пневмотранспорта зерна и при производстве круп, удаление пыли и шлаков при сварочном производстве, системы отбора запыленного воздуха при производстве цемента и железобетонных конструкций и в других видах применения.',
     price: '95599',
     vendorCode: '03.08.217978',
-    image: '/klimaticheskoe-oborudovanie/5169.png',
+    image: '/klimaticheskoe_oborudovanie/5169.png',
   },
   {
     id: 5170,
@@ -4688,7 +4688,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '106224',
     vendorCode: '03.02.217075',
-    image: '/klimaticheskoe-oborudovanie/5171.png',
+    image: '/klimaticheskoe_oborudovanie/5171.png',
   },
   {
     id: 5172,
@@ -4696,7 +4696,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '110000',
     vendorCode: '04.06.05.000025',
-    image: '/klimaticheskoe-oborudovanie/5172.png',
+    image: '/klimaticheskoe_oborudovanie/5172.png',
   },
   {
     id: 5173,
@@ -4704,7 +4704,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '125000',
     vendorCode: '04.06.05.000027',
-    image: '/klimaticheskoe-oborudovanie/5173.png',
+    image: '/klimaticheskoe_oborudovanie/5173.png',
   },
   {
     id: 5174,
@@ -4730,7 +4730,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
     description: null,
     price: '140000',
     vendorCode: '04.06.05.000028',
-    image: '/klimaticheskoe-oborudovanie/5176.png',
+    image: '/klimaticheskoe_oborudovanie/5176.png',
   },
   {
     id: 5177,
@@ -4739,7 +4739,7 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '140468',
     vendorCode: '03.02.000744',
-    image: '/klimaticheskoe-oborudovanie/5177.png',
+    image: '/klimaticheskoe_oborudovanie/5177.png',
   },
   {
     id: 5178,
@@ -4748,6 +4748,6 @@ export const klimaticheskoe_oborudovanie: IProduct[] = [
       'Вентиляторы ВЦ 14-46 предназначены для удаления из помещений промышленных и общественных зданий невзрывоопасных газовоздушных смесей. Применяются в стационарных системах вытяжной вентиляции производственных, общественных и жилых зданий, устанавливаются как в помещении, так и на кровле.',
     price: '140793',
     vendorCode: '03.02.0001320',
-    image: '/klimaticheskoe-oborudovanie/5178.png',
+    image: '/klimaticheskoe_oborudovanie/5178.png',
   },
 ];
