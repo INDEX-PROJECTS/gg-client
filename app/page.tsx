@@ -1,6 +1,7 @@
 import GeoIcon from '@/src/shared/assets/geoIcon.svg';
 import Pattern from '@/src/shared/assets/pattern.svg';
 import { Button } from '@/src/shared/components/ui/button';
+import { categories } from '@/src/shared/lib/constants/categories';
 import Link from 'next/link';
 
 export default function Home() {
@@ -43,30 +44,11 @@ export default function Home() {
       <section className="flex flex-col gap-[24px] max-[450px]:gap-[16px]" id="catalog">
         <h1 className="title max-[450px]:h1">Каталог товаров</h1>
         <div className="grid w-full grid-cols-4 gap-[16px] max-[1245px]:grid-cols-2 max-[670px]:grid-cols-1 max-[450px]:gap-[4px]">
-          <Button asChild variant="catalog">
-            <Link href="">Электродвигатели</Link>
-          </Button>
-          <Button asChild variant="catalog">
-            <Link href="">Насосы</Link>
-          </Button>
-          <Button asChild variant="catalog">
-            <Link href="">Частотные преобразователи и устройства плавного пуска</Link>
-          </Button>
-          <Button asChild variant="catalog">
-            <Link href="">Редукторы и мотор-редукторы</Link>
-          </Button>
-          <Button asChild variant="catalog">
-            <Link href="">Подшипники</Link>
-          </Button>
-          <Button asChild variant="catalog">
-            <Link href="">Климатическое оборудование</Link>
-          </Button>
-          <Button asChild variant="catalog">
-            <Link href="">Электрощитовое оборудование</Link>
-          </Button>
-          <Button asChild variant="catalog">
-            <Link href="">Тали</Link>
-          </Button>
+          {categories.map(category => (
+            <Button key={category.link} variant="catalog" asChild>
+              <Link href={`/${category.link}`}>{category.name}</Link>
+            </Button>
+          ))}
         </div>
       </section>
 
