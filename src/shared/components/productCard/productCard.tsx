@@ -1,8 +1,7 @@
-import ProductPattern from '@/src/shared/assets/productPattern.png';
+import ImageLoader from '@/src/shared/components/productCard/imageLoader/imageLoader';
 import { Button } from '@/src/shared/components/ui/button';
 import { IProduct } from '@/src/shared/lib/types/types';
 import { rubFormat } from '@/src/shared/lib/utils/rubFormat';
-import Image from 'next/image';
 import Link from 'next/link';
 import { FC } from 'react';
 
@@ -15,25 +14,7 @@ const ProductCard: FC<ProductCardProps> = ({ id, title, image, price, vendorCode
     <div className="flex h-[533px] w-full flex-col gap-[24px] rounded-sm bg-white-100 p-[8px] max-[450px]:h-[505px] max-[450px]:gap-[16px]">
       <Link href={`/${category}/${id}`}>
         <div className="relative flex h-[303px] flex-col overflow-hidden rounded-[8px]">
-          {image ? (
-            <Image
-              src={image}
-              alt={title}
-              fill
-              className="h-full w-full bg-white-100 object-contain object-center"
-              loading="lazy"
-              draggable={false}
-            />
-          ) : (
-            <Image
-              src={ProductPattern}
-              alt={title}
-              fill
-              className="h-full w-full bg-white-100 object-cover object-center"
-              loading="lazy"
-              draggable={false}
-            />
-          )}
+          <ImageLoader image={image} title={title} />
         </div>
       </Link>
 
