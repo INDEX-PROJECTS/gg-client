@@ -16,10 +16,14 @@ const ImageLoader = ({ image, title }: Pick<IProduct, 'image' | 'title'>) => {
           src={image ?? ProductPattern}
           alt={title}
           fill
-          className={cn('h-full w-full bg-white-100 object-cover object-center', !loaded && 'opacity-0')}
-          loading="eager"
+          className={cn(
+            'h-full w-full bg-white-100 object-contain object-center',
+            !loaded ? 'opacity-0' : !image && 'object-cover',
+          )}
           draggable={false}
-          onLoadingComplete={() => setLoaded(true)}
+          onLoad={() => setLoaded(true)}
+          quality={image ? 50 : 90}
+          sizes="303px"
         />
       }
       {!loaded && <Skeleton className="h-full w-full" />}
