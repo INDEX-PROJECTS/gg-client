@@ -1,5 +1,6 @@
 import GeoIcon from '@/src/shared/assets/geoIcon.svg';
 import Pattern from '@/src/shared/assets/pattern.svg';
+import OrderCallDialog from '@/src/shared/components/orderCallDialog/orderCallDialog';
 import { Button } from '@/src/shared/components/ui/button';
 import { categories } from '@/src/shared/lib/constants/categories';
 import Link from 'next/link';
@@ -8,12 +9,12 @@ export default function Home() {
   return (
     <main className="flex h-full w-full flex-col gap-[80px] max-[768px]:gap-[40px] max-[450px]:gap-[24px]">
       <section className="flex flex-col gap-[8px] text-white-100 max-[450px]:gap-[4px]" id="promo">
-        <div className="flex gap-[8px] max-[890px]:flex-col max-[450px]:gap-[4px]">
-          <div className="flex h-[80px] w-full min-w-[570px] grow-0 items-center gap-[12px] rounded-l-md rounded-r-sm bg-black-100 px-[24px] max-[890px]:min-w-0 max-[890px]:justify-center max-[890px]:rounded-md max-[890px]:text-center max-[450px]:h-[64px]">
-            <GeoIcon className="max-[890px]:hidden" />
+        <div className="flex gap-[8px] max-[928px]:flex-col max-[450px]:gap-[4px]">
+          <div className="flex h-[80px] w-full min-w-[570px] grow-0 items-center gap-[12px] rounded-l-md rounded-r-sm bg-black-100 px-[24px] max-[928px]:min-w-0 max-[928px]:justify-center max-[928px]:rounded-md max-[928px]:text-center max-[450px]:h-[64px]">
+            <GeoIcon className="max-[928px]:hidden" />
             <h3 className="t2 max-[450px]:t-xs">г. Челябинск, ул. молодогвардейцев 60в, оф. 505</h3>
           </div>
-          <div className="flex h-[80px] w-full max-w-[320px] flex-col items-end justify-center gap-[4px] rounded-sm rounded-l-sm rounded-r-md bg-black-100 px-[24px] max-[890px]:w-full max-[890px]:max-w-full max-[890px]:items-center max-[890px]:rounded-md max-[450px]:h-[64px]">
+          <div className="flex h-[80px] w-full max-w-[320px] flex-col items-end justify-center gap-[4px] rounded-sm rounded-l-sm rounded-r-md bg-black-100 px-[24px] max-[928px]:w-full max-[928px]:max-w-full max-[928px]:items-center max-[928px]:rounded-md max-[450px]:h-[64px]">
             <Link href="tel:+79191232395" className="t2 max-[450px]:t-xs">
               8 (919) 123-23-95
             </Link>
@@ -33,7 +34,7 @@ export default function Home() {
                 двигатель производства и бизнеса
               </h3>
             </div>
-            <Button className="w-full py-[28px] uppercase">Заказать звонок</Button>
+            <OrderCallDialog triggerButton={<Button className="w-full py-[28px] uppercase">Заказать звонок</Button>} />
           </div>
           <div className="h-[500px] w-full overflow-hidden max-[1024px]:h-[240px] max-[1024px]:w-full">
             <Pattern className="h-full w-full" />

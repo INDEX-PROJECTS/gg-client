@@ -1,5 +1,6 @@
 import Logo from '@/src/shared/assets/Logo.svg';
 import MainContainer from '@/src/shared/components/mainContainer/mainContainer';
+import OrderCallDialog from '@/src/shared/components/orderCallDialog/orderCallDialog';
 import { Button } from '@/src/shared/components/ui/button';
 import Link from 'next/link';
 
@@ -16,7 +17,7 @@ const Footer = () => {
             </div>
           </div>
 
-          <Button className="w-full">Заказать звонок</Button>
+          <OrderCallDialog triggerButton={<Button className="w-full">Заказать звонок</Button>} />
         </div>
 
         <div className="flex flex-col gap-[16px]">
