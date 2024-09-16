@@ -1,5 +1,6 @@
 'use client';
 
+import ArrowTopIcon from '@/src/shared/assets/arrowTopIcon.svg';
 import CheckIcon from '@/src/shared/assets/checkIcon.svg';
 import FilterIcon from '@/src/shared/assets/filterIcon.svg';
 import ProductCard from '@/src/shared/components/productCard/productCard';
@@ -190,7 +191,7 @@ const ProductsPage: FC<ProductsPageProps> = ({ category }) => {
         </PopoverContent>
       </Popover>
 
-      <section className="grid grid-cols-4 gap-[16px] max-[1264px]:grid-cols-3 max-[968px]:grid-cols-2 max-[632px]:grid-cols-1 max-[450px]:gap-[8px]">
+      <section className="relative grid grid-cols-4 gap-[16px] max-[1264px]:grid-cols-3 max-[968px]:grid-cols-2 max-[632px]:grid-cols-1 max-[450px]:gap-[8px]">
         {products.slice(0, itemsCount).map(product => (
           <ProductCard
             key={product.id}
@@ -203,6 +204,13 @@ const ProductsPage: FC<ProductsPageProps> = ({ category }) => {
             category={category}
           />
         ))}
+        <Button
+          variant="float"
+          className="absolute bottom-0 right-[-104px] max-[1630px]:right-[-80px] max-[1585px]:bottom-[-24px] max-[1585px]:right-0"
+          onClick={() => scrollTo(0, 0)}
+        >
+          <ArrowTopIcon />
+        </Button>
       </section>
 
       <div className={cn('flex w-full justify-center pt-[48px]', products.length <= itemsCount && 'hidden')}>
