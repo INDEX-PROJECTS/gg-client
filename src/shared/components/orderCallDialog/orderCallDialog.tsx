@@ -21,7 +21,7 @@ const OrderCallDialog = ({ triggerButton }: OrderCallDialogProps) => {
   return (
     <Dialog>
       <DialogTrigger asChild>{triggerButton}</DialogTrigger>
-      <DialogContent>
+      <DialogContent aria-describedby={undefined}>
         <DialogHeader>
           <DialogTitle>Заказать звонок</DialogTitle>
         </DialogHeader>
