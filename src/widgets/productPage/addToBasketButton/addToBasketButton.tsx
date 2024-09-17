@@ -12,20 +12,13 @@ const AddToBasketButton = ({ id, title, image, price, vendorCode, description }:
   });
 
   return (
-    <>
-      {isInBasket === 0 ? (
-        <Button className="w-full py-[28px] uppercase" disabled>
-          Уже в корзине
-        </Button>
-      ) : (
-        <Button
-          className="w-full py-[28px] uppercase"
-          onClick={() => addToCart({ id, title, image, price, vendorCode, description, quantity: 1 })}
-        >
-          В корзину
-        </Button>
-      )}
-    </>
+    <Button
+      className="w-full py-[28px] uppercase"
+      onClick={() => addToCart({ id, title, image, price, vendorCode, description, quantity: 1 })}
+      disabled={isInBasket === 0}
+    >
+      {isInBasket === 0 ? 'Уже в корзине' : 'В корзину'}
+    </Button>
   );
 };
 
