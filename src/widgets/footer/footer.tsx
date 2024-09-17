@@ -1,4 +1,5 @@
 import Logo from '@/src/shared/assets/Logo.svg';
+import BasketDialog from '@/src/shared/components/basketDialog/basketDialog';
 import MainContainer from '@/src/shared/components/mainContainer/mainContainer';
 import OrderCallDialog from '@/src/shared/components/orderCallDialog/orderCallDialog';
 import { Button } from '@/src/shared/components/ui/button';
@@ -68,7 +69,7 @@ const Footer = () => {
               </Button>
             </li>
             <li>
-              <Button variant="link">Корзина</Button>
+              <BasketDialog triggerButton={<Button variant="link">Корзина</Button>} />
             </li>
           </ul>
         </div>
