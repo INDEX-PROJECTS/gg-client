@@ -1,4 +1,5 @@
 import Logo from '@/src/shared/assets/Logo.svg';
+import BasketDialog from '@/src/shared/components/basketDialog/basketDialog';
 import MainContainer from '@/src/shared/components/mainContainer/mainContainer';
 import { Button } from '@/src/shared/components/ui/button';
 import Link from 'next/link';
@@ -39,9 +40,13 @@ const Header = () => {
             </Button>
           </li>
           <li>
-            <Button variant="link" className="max-[450px]:t-xs">
-              Корзина
-            </Button>
+            <BasketDialog
+              triggerButton={
+                <Button variant="link" className="max-[450px]:t-xs">
+                  Корзина
+                </Button>
+              }
+            />
           </li>
         </ul>
       </header>

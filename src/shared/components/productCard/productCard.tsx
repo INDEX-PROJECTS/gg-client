@@ -1,5 +1,6 @@
 import ImageLoader from '@/src/shared/components/productCard/imageLoader/imageLoader';
 import { Button } from '@/src/shared/components/ui/button';
+import { useBasketStore } from '@/src/shared/lib/store/BasketStore';
 import { IProduct } from '@/src/shared/lib/types/types';
 import { rubFormat } from '@/src/shared/lib/utils/rubFormat';
 import Link from 'next/link';
@@ -10,6 +11,19 @@ interface ProductCardProps extends IProduct {
 }
 
 const ProductCard: FC<ProductCardProps> = ({ id, title, image, price, vendorCode, description, category }) => {
+  const addToCart = useBasketStore(state => state.addToCart);
+  const basketItems = useBasketStore(state => state.basketItems);
+  const increaseQuantity = useBasketStore(state => state.increaseQuantity);
+  const decreaseQuantity = useBasketStore(state => state.decreaseQuantity);
+
+  const isInBasket = basketItems.findIndex(item => {
+    return item.id === id;
+  });
+
+  const productQuantity = basketItems.find(item => {
+    return item.id === id;
+  })?.quantity;
+
   return (
     <div className="flex h-[533px] w-full flex-col gap-[24px] rounded-sm bg-white-100 p-[8px] max-[450px]:h-[505px] max-[450px]:gap-[16px]">
       <Link href={`/${category}/${id}`}>
@@ -28,7 +42,32 @@ const ProductCard: FC<ProductCardProps> = ({ id, title, image, price, vendorCode
             {title}
           </Link>
         </div>
-        <Button className="w-full uppercase">в корзину</Button>
+        {isInBasket === -1 ? (
+          <Button
+            className="w-full uppercase"
+            onClick={() => addToCart({ id, title, image, price, vendorCode, description, quantity: 1 })}
+          >
+            в корзину
+          </Button>
+        ) : (
+          <div className="flex w-full items-center">
+            <Button
+              variant="backgroundIcon"
+              className="h1 h-[64px] w-[64px] shrink-0 font-[500]"
+              onClick={() => decreaseQuantity(id)}
+            >
+              -
+            </Button>
+            <span className="t2 w-full select-none text-center font-[700]">{productQuantity}</span>
+            <Button
+              variant="backgroundIcon"
+              className="h1 h-[64px] w-[64px] shrink-0 font-[500]"
+              onClick={() => increaseQuantity(id)}
+            >
+              +
+            </Button>
+          </div>
+        )}
       </div>
     </div>
   );

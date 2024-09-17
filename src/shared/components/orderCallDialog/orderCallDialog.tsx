@@ -33,7 +33,7 @@ const OrderCallDialog = ({ triggerButton }: OrderCallDialogProps) => {
         />
         <DialogFooter>
           <DialogClose asChild>
-            <Button type="submit" className="max-[450px]:uppercase">
+            <Button type="submit" className="w-[304px] uppercase max-[450px]:w-full">
               Заказать звонок
             </Button>
           </DialogClose>

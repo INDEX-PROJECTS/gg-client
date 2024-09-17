@@ -7,7 +7,6 @@ import {
   BreadcrumbPage,
   BreadcrumbSeparator,
 } from '@/src/shared/components/ui/breadcrumb';
-import { Button } from '@/src/shared/components/ui/button';
 import { categories } from '@/src/shared/lib/constants/categories';
 import { bearings } from '@/src/shared/lib/products/bearings';
 import { electric_engines } from '@/src/shared/lib/products/electric_engines';
@@ -19,6 +18,7 @@ import { schild } from '@/src/shared/lib/products/schild';
 import { tali } from '@/src/shared/lib/products/tali';
 import { IProduct } from '@/src/shared/lib/types/types';
 import { rubFormat } from '@/src/shared/lib/utils/rubFormat';
+import AddToBasketButton from '@/src/widgets/productPage/addToBasketButton/addToBasketButton';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { FC } from 'react';
@@ -129,7 +129,14 @@ const ProductPage: FC<ProductPageProps> = ({ category, productId }) => {
             <p className="t3 max-[450px]:t-xs">{product.description}</p>
           </div>
 
-          <Button className="w-full py-[28px] uppercase">В корзину</Button>
+          <AddToBasketButton
+            id={product.id}
+            title={product.title}
+            image={product.image}
+            price={product.price}
+            description={product.description}
+            vendorCode={product.vendorCode}
+          />
         </div>
       </main>
     </>
