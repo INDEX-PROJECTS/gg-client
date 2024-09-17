@@ -63,7 +63,7 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
               </Button>
             </div>
 
-            <div className="flex max-h-[452px] flex-col gap-[16px] overflow-auto max-[450px]:max-h-[464px]">
+            <div className="flex h-[452px] flex-col gap-[16px] overflow-auto max-[450px]:h-[464px]">
               {basketItems.map(basketItem => (
                 <div key={basketItem.id} className="flex gap-[16px]">
                   <div className="relative flex h-[140px] w-[140px] shrink-0 overflow-hidden rounded-[8px] max-[450px]:h-[48px] max-[450px]:w-[48px]">
