@@ -40,8 +40,6 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
 
   const totalPrice = rubFormat(basketItems.map(item => Number(item.price) * item.quantity).reduce((a, b) => a + b, 0));
 
-  console.log(totalPrice);
-
   return (
     <Dialog>
       <DialogTrigger asChild>{triggerButton}</DialogTrigger>
