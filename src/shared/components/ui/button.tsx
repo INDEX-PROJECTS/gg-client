@@ -20,6 +20,7 @@ const buttonVariants = cva(
         text: 't3 font-[700] hover:text-[rgba(0,0,0,0.7)] active:text-[rgba(0,0,0,0.5)]',
         link: 't2 hover:text-[rgba(0,0,0,0.7)] active:text-[rgba(0,0,0,0.5)]',
         float: 'w-[64px] h-[64px] rounded-full gradient duration-700 border-[3px] border-white-100',
+        docsNavItem: 'h1 leading-[40px] text-black-200 transition-colors hover:text-backdrop text-left',
       },
     },
     defaultVariants: {

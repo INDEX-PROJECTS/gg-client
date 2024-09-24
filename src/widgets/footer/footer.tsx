@@ -65,7 +65,7 @@ const Footer = () => {
             </li>
             <li>
               <Button variant="link" asChild>
-                <Link href="">Документация</Link>
+                <Link href="/documents">Документация</Link>
               </Button>
             </li>
             <li>

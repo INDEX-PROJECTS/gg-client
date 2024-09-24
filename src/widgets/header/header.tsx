@@ -36,7 +36,7 @@ const Header = () => {
           </li>
           <li>
             <Button variant="link" asChild className="max-[450px]:t-xs">
-              <Link href="">Документация</Link>
+              <Link href="/documents">Документация</Link>
             </Button>
           </li>
           <li>
