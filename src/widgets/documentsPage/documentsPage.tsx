@@ -17,8 +17,12 @@ interface IDocRoute {
   name: string;
 }
 
+type IDocParam = {
+  info?: string;
+};
+
 const DocumentsPage = () => {
-  const searchParams = useSearchParams();
+  const searchParams = useSearchParams() as unknown as Map<keyof IDocParam, string>;
   const router = useRouter();
 
   const routes: IDocRoute[] = [
@@ -90,7 +94,7 @@ const DocumentsPage = () => {
           ))}
         </ul>
         <div className="">
-          <h1 className="h1 leading-[40px]">Реквизиты и контакты</h1>
+          <h1 className="h1 leading-[40px]">{routePath.name}</h1>
         </div>
       </main>
     </>

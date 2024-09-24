@@ -35,9 +35,9 @@ interface ProductsPageProps {
   category: string;
 }
 
-interface ICountItems {
+type ICountItems = {
   count?: number;
-}
+};
 
 const ProductsPage: FC<ProductsPageProps> = ({ category }) => {
   const router = useRouter();
