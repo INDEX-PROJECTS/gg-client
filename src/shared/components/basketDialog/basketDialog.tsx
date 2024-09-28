@@ -130,7 +130,7 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
                 className="t3 max-[450px]:t-xs ml-[16px_!important] font-[600] peer-disabled:cursor-not-allowed peer-disabled:opacity-70 max-[450px]:ml-[8px_!important]"
               >
                 Я соглашаюсь с{' '}
-                <Link href="/" className="border-b border-black-200" target="_blank">
+                <Link href="/documents?info=offer" className="border-b border-black-200" target="_blank">
                   условиями оферты
                 </Link>
               </label>

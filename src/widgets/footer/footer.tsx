@@ -40,7 +40,7 @@ const Footer = () => {
             </div>
             <div className="flex flex-col gap-[4px]">
               <h4 className="t-xs text-backdrop">Адресс Офиса</h4>
-              <h3 className="t2 max-w-[500px]">г. Челябинск, ул. молодогвардейцев 60в, оф. 505</h3>
+              <h3 className="t2 max-w-[500px]">г. Челябинск, ул. молодогвардейцев 60в, оф. 301</h3>
             </div>
           </div>
         </div>
