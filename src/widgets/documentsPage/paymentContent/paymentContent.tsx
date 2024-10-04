@@ -64,9 +64,8 @@ const PaymentContent = () => {
         </ul>
         <br />
         <br />
-        <div className="relative h-[36px] w-[396px] max-[545px]:w-full">
-          <Image src="/paymentCards.png" alt="" fill className="object-contain object-center" />
-        </div>
+        <Image src="/horizontalLogos.png" alt="" width={3056} height={238} className="max-[425px]:hidden" />
+        <Image src="/verticalLogos.png" alt="" width={742} height={1494} className="hidden max-[425px]:block" />
       </p>
     </div>
   );

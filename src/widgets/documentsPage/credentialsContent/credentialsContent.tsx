@@ -2,30 +2,42 @@ const CredentialsContent = () => {
   return (
     <div className="flex flex-col gap-[16px]">
       <h1 className="h1 leading-[40px] max-[450px]:text-[22px] max-[450px]:leading-[26.77px]">Реквизиты и контакты</h1>
-      <p className="t3 max-[450px]:t-xs">
-        ООО «ГУРУ ГРУПП»
-        <br />
-        454136, г.Челябинск, ул. Молодогвардейцев, д.60в, офис 301
-        <br />
-        7447294868
-        <br />
-        744701001
-        <br />
-        1207400017505
-        <br />
-        Филиал АО "РАЙФФАЙЗЕНБАНК" – г. Екатеринбург
-        <br />
-        40702810304000044060
-        <br />
-        30101810100000000906
-        <br />
-        046577906
-        <br />
-        Директор: Романов Алексей Викторович
-        <br />
-        guru-grupp@mail.ru / +79191232395
-        <br />
-      </p>
+      <div>
+        <p className="t3 max-[450px]:t-xs !font-[700]">Полное наименование</p>
+        <p className="t3 max-[450px]:t-xs">Общество с ограниченной ответственностью «ГУРУ ГРУПП»</p>
+      </div>
+      <div>
+        <p className="t3 max-[450px]:t-xs !font-[700]">Директор</p>
+        <p className="t3 max-[450px]:t-xs">Романов Алексей Викторович</p>
+      </div>
+      <div>
+        <p className="t3 max-[450px]:t-xs !font-[700]">ОГРН/ИНН</p>
+        <p className="t3 max-[450px]:t-xs">1207400017505/7447294868</p>
+      </div>
+      <div>
+        <p className="t3 max-[450px]:t-xs !font-[700]">Телефон</p>
+        <p className="t3 max-[450px]:t-xs">+79191232395</p>
+      </div>
+      <div>
+        <p className="t3 max-[450px]:t-xs !font-[700]">E-mail</p>
+        <p className="t3 max-[450px]:t-xs">guru-grupp@mail.ru</p>
+      </div>
+      <div>
+        <p className="t3 max-[450px]:t-xs !font-[700]">Режим работы</p>
+        <p className="t3 max-[450px]:t-xs">Пн.-Пт. 9:00 - 18:00</p>
+      </div>
+      <div>
+        <p className="t3 max-[450px]:t-xs !font-[700]">Почтовый адрес</p>
+        <p className="t3 max-[450px]:t-xs">454136, г.Челябинск, ул. Молодогвардейцев, д.60в, офис 505, помещение 20</p>
+      </div>
+      <div>
+        <p className="t3 max-[450px]:t-xs !font-[700]">Физический адрес</p>
+        <p className="t3 max-[450px]:t-xs">454136, г.Челябинск, ул. Молодогвардейцев, д.60в, офис 505, помещение 20</p>
+      </div>
+      <div>
+        <p className="t3 max-[450px]:t-xs !font-[700]">Юридический адрес</p>
+        <p className="t3 max-[450px]:t-xs">454136, г.Челябинск, ул. Молодогвардейцев, д.60в, офис 505, помещение 20</p>
+      </div>
     </div>
   );
 };
