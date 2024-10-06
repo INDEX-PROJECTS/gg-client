@@ -12,7 +12,7 @@ const buttonVariants = cva(
         default:
           't2 enabled:gradient duration-700 text-white-100 rounded-sm py-[20px] px-[24px] disabled:bg-white-300 disabled:text-backdrop',
         catalog:
-          'h2 enabled:gradient duration-700 text-white-100 rounded-sm py-[20px] px-[24px] disabled:bg-white-300 disabled:text-backdrop h-[193px] uppercase max-[450px]:h-[180px] max-[768px]:t1 max-[450px]:text-[22px] max-[450px]:leading-[26.77px]',
+          'h2 gradient duration-700 text-white-100 rounded-sm py-[20px] px-[24px] h-[193px] uppercase max-[450px]:h-[180px] max-[768px]:t1 max-[450px]:text-[22px] max-[450px]:leading-[26.77px]',
         popover:
           'max-[450px]:w-[160px] max-[450px]:t-xs hover:shadow-[0_0_8px_0_rgba(0,0,0,0.24)] active:shadow-[0_0_8px_0_rgba(0,0,0,0.24)] py-[12px] pl-[24px] w-[214px] rounded-md bg-black-100 text-white-100 t2 flex gap-[12px] items-center justify-start hover:bg-[#333333] active:bg-[#464646]',
         icon: 'w-[30px] h-[30px]',
