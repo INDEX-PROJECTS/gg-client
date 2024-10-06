@@ -10,15 +10,11 @@ const AddToBasketButton = ({ id, title, image, price, vendorCode, description }:
   const isInBasket = basketItems.findIndex(item => {
     return item.id === id;
   });
-  console.log(isInBasket);
 
   return (
     <Button
       className="w-full py-[28px] uppercase"
-      onClick={() => {
-        addToCart({ id, title, image, price, vendorCode, description, quantity: 1 });
-        console.log({ id, basketItems });
-      }}
+      onClick={() => addToCart({ id, title, image, price, vendorCode, description, quantity: 1 })}
       disabled={isInBasket !== -1}
     >
       {isInBasket !== -1 ? 'Уже в корзине' : 'В корзину'}
