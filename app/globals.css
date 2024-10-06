@@ -35,10 +35,6 @@
     overflow: hidden;
   }
 
-  .gradient:disabled {
-    background: rgba(234, 234, 234, 1);
-  }
-
   .gradient::after {
     background: linear-gradient(90deg, #dc734c 0%, #dc9f4e 100%);
     content: '';
