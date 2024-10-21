@@ -8,14 +8,19 @@ import {
   BreadcrumbSeparator,
 } from '@/src/shared/components/ui/breadcrumb';
 import { categories } from '@/src/shared/lib/constants/categories';
+import { categoriesAlternative } from '@/src/shared/lib/constants/categoriesAlternative';
+import { ALTERNATIVE_CATEGORIES } from '@/src/shared/lib/constants/env.config';
 import { bearings } from '@/src/shared/lib/products/bearings';
 import { electric_engines } from '@/src/shared/lib/products/electric_engines';
 import { gearbox } from '@/src/shared/lib/products/gearbox';
 import { invertors } from '@/src/shared/lib/products/invertors';
+import { izdeliya_iz_armatury } from '@/src/shared/lib/products/izdeliya_iz_armatury';
 import { klimaticheskoe_oborudovanie } from '@/src/shared/lib/products/klimaticheskoe_oborudovanie';
+import { listovoy_prokat } from '@/src/shared/lib/products/listovoy_prokat';
 import { pumps } from '@/src/shared/lib/products/pumps';
 import { schild } from '@/src/shared/lib/products/schild';
 import { tali } from '@/src/shared/lib/products/tali';
+import { trubniy_prokat } from '@/src/shared/lib/products/trubniy_prokat';
 import { IProduct } from '@/src/shared/lib/types/types';
 import { rubFormat } from '@/src/shared/lib/utils/rubFormat';
 import AddToBasketButton from '@/src/widgets/productPage/addToBasketButton/addToBasketButton';
@@ -56,6 +61,15 @@ const ProductPage: FC<ProductPageProps> = ({ category, productId }) => {
     case 'tali':
       products = tali;
       break;
+    case 'trubniy-prokat':
+      products = trubniy_prokat;
+      break;
+    case 'listovoy-prokat':
+      products = listovoy_prokat;
+      break;
+    case 'izdeliya-iz-armatury':
+      products = izdeliya_iz_armatury;
+      break;
     default:
       break;
   }
@@ -79,7 +93,7 @@ const ProductPage: FC<ProductPageProps> = ({ category, productId }) => {
           <BreadcrumbItem>
             <BreadcrumbLink href={`/${category}`}>
               {
-                categories.find(item => {
+                (ALTERNATIVE_CATEGORIES === 'true' ? categoriesAlternative : categories).find(item => {
                   return item.link === category;
                 })?.name
               }
@@ -117,7 +131,7 @@ const ProductPage: FC<ProductPageProps> = ({ category, productId }) => {
           <div className="flex flex-col gap-[24px]">
             <div className="flex flex-col gap-[10px]">
               <span className="title text-orange max-[950px]:text-[48px] max-[950px]:leading-[58.42px] max-[450px]:text-[32px] max-[450px]:leading-[38.94px]">
-                {rubFormat(Number(product.price))}
+                {product.price === 'По запросу' ? product.price : rubFormat(Number(product.price))}
               </span>
               <div className="flex flex-col gap-[6px]">
                 <h1 className="h1 max-[950px]:h2 leading-[40px] max-[450px]:text-[22px] max-[450px]:leading-[26.77px]">

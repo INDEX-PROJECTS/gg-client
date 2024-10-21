@@ -15,14 +15,19 @@ import {
 import { Button } from '@/src/shared/components/ui/button';
 import { Popover, PopoverContent, PopoverTrigger } from '@/src/shared/components/ui/popover';
 import { categories } from '@/src/shared/lib/constants/categories';
+import { categoriesAlternative } from '@/src/shared/lib/constants/categoriesAlternative';
+import { ALTERNATIVE_CATEGORIES } from '@/src/shared/lib/constants/env.config';
 import { bearings } from '@/src/shared/lib/products/bearings';
 import { electric_engines } from '@/src/shared/lib/products/electric_engines';
 import { gearbox } from '@/src/shared/lib/products/gearbox';
 import { invertors } from '@/src/shared/lib/products/invertors';
+import { izdeliya_iz_armatury } from '@/src/shared/lib/products/izdeliya_iz_armatury';
 import { klimaticheskoe_oborudovanie } from '@/src/shared/lib/products/klimaticheskoe_oborudovanie';
+import { listovoy_prokat } from '@/src/shared/lib/products/listovoy_prokat';
 import { pumps } from '@/src/shared/lib/products/pumps';
 import { schild } from '@/src/shared/lib/products/schild';
 import { tali } from '@/src/shared/lib/products/tali';
+import { trubniy_prokat } from '@/src/shared/lib/products/trubniy_prokat';
 import { IProduct } from '@/src/shared/lib/types/types';
 import { cn } from '@/src/shared/lib/utils/cnMerge';
 import { PopoverClose } from '@radix-ui/react-popover';
@@ -80,6 +85,15 @@ const ProductsPage: FC<ProductsPageProps> = ({ category }) => {
       case 'tali':
         setProducts(tali);
         break;
+      case 'trubniy-prokat':
+        setProducts(trubniy_prokat);
+        break;
+      case 'listovoy-prokat':
+        setProducts(listovoy_prokat);
+        break;
+      case 'izdeliya-iz-armatury':
+        setProducts(izdeliya_iz_armatury);
+        break;
       default:
         break;
     }
@@ -135,7 +149,7 @@ const ProductsPage: FC<ProductsPageProps> = ({ category }) => {
           <BreadcrumbItem>
             <BreadcrumbPage>
               {
-                categories.find(item => {
+                (ALTERNATIVE_CATEGORIES === 'true' ? categoriesAlternative : categories).find(item => {
                   return item.link === category;
                 })?.name
               }

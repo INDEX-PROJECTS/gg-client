@@ -3,6 +3,8 @@ import Pattern from '@/src/shared/assets/pattern.svg';
 import OrderCallDialog from '@/src/shared/components/orderCallDialog/orderCallDialog';
 import { Button } from '@/src/shared/components/ui/button';
 import { categories } from '@/src/shared/lib/constants/categories';
+import { categoriesAlternative } from '@/src/shared/lib/constants/categoriesAlternative';
+import { ALTERNATIVE_CATEGORIES } from '@/src/shared/lib/constants/env.config';
 import Link from 'next/link';
 
 export default function Home() {
@@ -45,7 +47,7 @@ export default function Home() {
       <section className="flex flex-col gap-[24px] max-[450px]:gap-[16px]" id="catalog">
         <h1 className="title max-[450px]:h1">Каталог товаров</h1>
         <div className="grid w-full grid-cols-4 gap-[16px] max-[1245px]:grid-cols-2 max-[670px]:grid-cols-1 max-[450px]:gap-[4px]">
-          {categories.map(category => (
+          {(ALTERNATIVE_CATEGORIES === 'true' ? categoriesAlternative : categories).map(category => (
             <Button key={category.link} variant="catalog" asChild>
               <Link href={`/${category.link}`}>{category.name}</Link>
             </Button>

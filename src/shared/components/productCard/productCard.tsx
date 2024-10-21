@@ -1,3 +1,4 @@
+import CheckProductCostDialog from '@/src/shared/components/checkProductCostDialog/checkProductCostDialog';
 import ImageLoader from '@/src/shared/components/productCard/imageLoader/imageLoader';
 import { Button } from '@/src/shared/components/ui/button';
 import { useBasketStore } from '@/src/shared/lib/store/BasketStore';
@@ -36,13 +37,17 @@ const ProductCard: FC<ProductCardProps> = ({ id, title, image, price, vendorCode
         <div className="flex flex-col gap-[8px] max-[450px]:gap-[4px]">
           <div className="flex flex-col gap-[2px]">
             <p className="t-xs text-backdrop">Артикул: {vendorCode}</p>
-            <h3 className="t1 text-orange max-[450px]:text-[22px]">{rubFormat(Number(price))}</h3>
+            <h3 className="t1 text-orange max-[450px]:text-[22px]">
+              {price === 'По запросу' ? price : rubFormat(Number(price))}
+            </h3>
           </div>
           <Link href={`/${category}/${id}`} className="t3 line-clamp-2">
             {title}
           </Link>
         </div>
-        {isInBasket === -1 ? (
+        {price === 'По запросу' ? (
+          <CheckProductCostDialog triggerButton={<Button className="w-full uppercase">Уточнить стоимость</Button>} />
+        ) : isInBasket === -1 ? (
           <Button
             className="w-full uppercase"
             onClick={() => addToCart({ id, title, image, price, vendorCode, description, quantity: 1 })}
