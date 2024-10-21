@@ -160,16 +160,16 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
                 </Button>
               </DialogClose>
             ) : ENABLED_PAYMENT === 'true' ? (
+              <Button type="submit" className="w-[304px] uppercase max-[450px]:w-full" disabled={!terms}>
+                Оформить заказ
+              </Button>
+            ) : (
               <Button
                 className="w-[304px] uppercase max-[450px]:w-full"
                 disabled={!terms}
                 onClick={() => setCallDialog(true)}
               >
                 Заказать звонок
-              </Button>
-            ) : (
-              <Button type="submit" className="w-[304px] uppercase max-[450px]:w-full" disabled={!terms}>
-                Оформить заказ
               </Button>
             )}
           </DialogFooter>
