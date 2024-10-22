@@ -50,7 +50,7 @@ const OrderCallDialog = ({ triggerButton }: OrderCallDialogProps) => {
                   }, 700);
                 }}
               >
-                {pending ? 'Отрпавка...' : 'Заказать звонок'}
+                {pending ? 'Отправка...' : 'Заказать звонок'}
               </Button>
             </DialogFooter>
           </>

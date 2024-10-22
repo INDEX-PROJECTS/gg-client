@@ -203,7 +203,7 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
                 }, 700);
               }}
             >
-              {pending ? 'Отрпавка...' : 'Заказать звонок'}
+              {pending ? 'Отправка...' : 'Заказать звонок'}
             </Button>
           </DialogFooter>
         </DialogContent>
