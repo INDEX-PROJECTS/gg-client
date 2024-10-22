@@ -35,6 +35,7 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
 
   const [terms, setTerms] = useState(true);
   const [callDialog, setCallDialog] = useState(false);
+  const [pending, setPending] = useState<boolean>(false);
 
   const productQuantity = (id: number) => {
     return basketItems.find(item => {
@@ -47,7 +48,10 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
   return (
     <Dialog
       onOpenChange={() => {
-        setTimeout(() => setCallDialog(false), 500);
+        setTimeout(() => {
+          setCallDialog(false);
+          setPending(false);
+        }, 500);
       }}
     >
       <DialogTrigger asChild>{triggerButton}</DialogTrigger>
@@ -192,11 +196,14 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
             <Button
               className="w-[304px] uppercase max-[450px]:w-full"
               onClick={() => {
-                clearBasket();
-                location.reload();
+                setPending(true);
+                setTimeout(() => {
+                  clearBasket();
+                  location.reload();
+                }, 700);
               }}
             >
-              Заказать звонок
+              {pending ? 'Отрпавка...' : 'Заказать звонок'}
             </Button>
           </DialogFooter>
         </DialogContent>
