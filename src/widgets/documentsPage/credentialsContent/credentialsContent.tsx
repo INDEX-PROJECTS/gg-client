@@ -16,7 +16,7 @@ const CredentialsContent = () => {
       </div>
       <div>
         <p className="t3 max-[450px]:t-xs !font-[700]">Телефон</p>
-        <p className="t3 max-[450px]:t-xs">+79191232395</p>
+        <p className="t3 max-[450px]:t-xs">+79191232395 / +73512232395</p>
       </div>
       <div>
         <p className="t3 max-[450px]:t-xs !font-[700]">E-mail</p>

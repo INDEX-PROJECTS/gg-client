@@ -30,6 +30,9 @@ const Footer = () => {
                 <Link href="tel:+79191232395" className="t1 text-orange">
                   8 (919) 123-23-95
                 </Link>
+                <Link href="tel:+73512232395" className="t1 text-orange">
+                  8 (351) 223-23-95
+                </Link>
               </div>
               <div className="flex flex-col gap-[4px]">
                 <h4 className="t-xs text-backdrop">E-mail</h4>

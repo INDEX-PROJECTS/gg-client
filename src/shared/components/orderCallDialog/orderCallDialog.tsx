@@ -4,6 +4,7 @@ import { Button } from '@/src/shared/components/ui/button';
 import {
   Dialog,
   DialogContent,
+  DialogDescription,
   DialogFooter,
   DialogHeader,
   DialogTitle,
@@ -21,9 +22,10 @@ const OrderCallDialog = ({ triggerButton }: OrderCallDialogProps) => {
   return (
     <Dialog>
       <DialogTrigger asChild>{triggerButton}</DialogTrigger>
-      <DialogContent aria-describedby={undefined}>
+      <DialogContent>
         <DialogHeader>
           <DialogTitle>Заказать звонок</DialogTitle>
+          <DialogDescription className="uppercase">Наш менеджер свяжется с вами</DialogDescription>
         </DialogHeader>
         <InputMask
           inputMode="tel"

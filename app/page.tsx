@@ -12,13 +12,16 @@ export default function Home() {
     <main className="flex h-full w-full flex-col gap-[80px] max-[768px]:gap-[40px] max-[450px]:gap-[24px]">
       <section className="flex flex-col gap-[8px] text-white-100 max-[450px]:gap-[4px]" id="promo">
         <div className="flex gap-[8px] max-[928px]:flex-col max-[450px]:gap-[4px]">
-          <div className="flex h-[80px] w-full min-w-[570px] grow-0 items-center gap-[12px] rounded-l-md rounded-r-sm bg-black-100 px-[24px] max-[928px]:min-w-0 max-[928px]:justify-center max-[928px]:rounded-md max-[928px]:text-center max-[450px]:h-[64px]">
+          <div className="flex w-full min-w-[570px] grow-0 items-center gap-[12px] rounded-l-md rounded-r-sm bg-black-100 p-[24px] max-[928px]:min-w-0 max-[928px]:justify-center max-[928px]:rounded-md max-[928px]:text-center">
             <GeoIcon className="max-[928px]:hidden" />
             <h3 className="t2 max-[450px]:t-xs">г. Челябинск, ул. молодогвардейцев 60в, оф. 301</h3>
           </div>
-          <div className="flex h-[80px] w-full max-w-[320px] flex-col items-end justify-center gap-[4px] rounded-sm rounded-l-sm rounded-r-md bg-black-100 px-[24px] max-[928px]:w-full max-[928px]:max-w-full max-[928px]:items-center max-[928px]:rounded-md max-[450px]:h-[64px]">
+          <div className="flex w-full max-w-[320px] flex-col items-end justify-center gap-[4px] rounded-sm rounded-l-sm rounded-r-md bg-black-100 p-[24px] max-[928px]:w-full max-[928px]:max-w-full max-[928px]:items-center max-[928px]:rounded-md">
             <Link href="tel:+79191232395" className="t2 max-[450px]:t-xs">
               8 (919) 123-23-95
+            </Link>
+            <Link href="tel:+73512232395" className="t2 max-[450px]:t-xs">
+              8 (351) 223-23-95
             </Link>
             <Link href="mailto:guru-grupp@mail.ru" className="t2 max-[450px]:t-xs">
               Guru-grupp@mail.ru
