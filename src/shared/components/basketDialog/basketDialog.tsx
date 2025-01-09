@@ -12,10 +12,11 @@ import {
   DialogTitle,
   DialogTrigger,
 } from '@/src/shared/components/ui/dialog';
-import { ENABLED_PAYMENT } from '@/src/shared/lib/constants/env.config';
+import { DOMAIN_NAME, ENABLED_PAYMENT, PAYMENT_LINK } from '@/src/shared/lib/constants/env.config';
 import { useBasketStore } from '@/src/shared/lib/store/BasketStore';
 import { cn } from '@/src/shared/lib/utils/cnMerge';
 import { rubFormat } from '@/src/shared/lib/utils/rubFormat';
+import axios from 'axios';
 import Image from 'next/image';
 import Link from 'next/link';
 import { ReactNode, useState } from 'react';
@@ -33,6 +34,7 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
   const increaseQuantity = useBasketStore(state => state.increaseQuantity);
   const decreaseQuantity = useBasketStore(state => state.decreaseQuantity);
 
+  const [redirect, setRedirect] = useState(false);
   const [terms, setTerms] = useState(true);
   const [callDialog, setCallDialog] = useState(false);
   const [pending, setPending] = useState<boolean>(false);
@@ -43,7 +45,22 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
     })?.quantity;
   };
 
-  const totalPrice = rubFormat(basketItems.map(item => Number(item.price) * item.quantity).reduce((a, b) => a + b, 0));
+  const totalPrice = basketItems.map(item => Number(item.price) * item.quantity).reduce((a, b) => a + b, 0);
+
+  const paymentYooKassa = async () => {
+    await axios
+      .post(PAYMENT_LINK, {
+        amount: totalPrice,
+      })
+      .then(response => {
+        setRedirect(true);
+        clearBasket();
+        window.location.href = response.data.paymentUrl;
+      })
+      .catch(() => {
+        alert('Что-то пошло не так! Повторите попытку позже.');
+      });
+  };
 
   return (
     <Dialog
@@ -63,8 +80,14 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
 
           {!basketItems.length ? (
             <div className="flex w-full flex-col items-center justify-center gap-[16px] py-[190px] text-center">
-              <h3 className="t1">Корзина пуста</h3>
-              <p className="t3">Перейдите к каталогу, чтобы оформить заказ</p>
+              {!redirect ? (
+                <>
+                  <h3 className="t1">Корзина пуста</h3>
+                  <p className="t3">Перейдите к каталогу, чтобы оформить заказ</p>
+                </>
+              ) : (
+                <h3 className="t1">Переадресация...</h3>
+              )}
             </div>
           ) : (
             <div className="flex flex-col gap-[24px]">
@@ -151,7 +174,7 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
 
               <div className="flex w-full justify-between uppercase">
                 <h3 className="t1 max-[450px]:t3 text-orange">итого к оплате:</h3>
-                <h3 className="t1 max-[450px]:t3 text-orange">{totalPrice}</h3>
+                <h3 className="t1 max-[450px]:t3 text-orange">{rubFormat(totalPrice)}</h3>
               </div>
             </div>
           )}
@@ -164,7 +187,12 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
                 </Button>
               </DialogClose>
             ) : ENABLED_PAYMENT === 'true' ? (
-              <Button type="submit" className="w-[304px] uppercase max-[450px]:w-full" disabled={!terms}>
+              <Button
+                type="submit"
+                className="w-[304px] uppercase max-[450px]:w-full"
+                disabled={!terms}
+                onClick={() => DOMAIN_NAME === 'trast-servis.online' && paymentYooKassa()}
+              >
                 Оформить заказ
               </Button>
             ) : (
