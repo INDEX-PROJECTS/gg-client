@@ -55,7 +55,7 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
       .then(response => {
         setRedirect(true);
         clearBasket();
-        window.location.href = response.data.paymentUrl;
+        window.location.replace(response.data.paymentUrl);
       })
       .catch(() => {
         alert('Что-то пошло не так! Повторите попытку позже.');
