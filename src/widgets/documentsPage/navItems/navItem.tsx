@@ -38,6 +38,12 @@ const NavItems = () => {
       active: isNavItemActive(pathname, '/documents/settings'),
       position: 'bottom',
     },
+    {
+      name: 'Delivery',
+      href: '/delivery',
+      active: isNavItemActive(pathname, '/documents/delivery'),
+      position: 'top',
+    },
   ];
 };
 

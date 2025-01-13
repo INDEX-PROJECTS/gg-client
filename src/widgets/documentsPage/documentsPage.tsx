@@ -10,6 +10,7 @@ import {
 } from '@/src/shared/components/ui/breadcrumb';
 import { Button } from '@/src/shared/components/ui/button';
 import CredentialsContent from '@/src/widgets/documentsPage/credentialsContent/credentialsContent';
+import DeliveryContent from '@/src/widgets/documentsPage/deliveryContent/deliveryContent';
 import DirectionsContent from '@/src/widgets/documentsPage/directionsContent/directionsContent';
 import OfferContent from '@/src/widgets/documentsPage/offerContent/offerContent';
 import PaymentContent from '@/src/widgets/documentsPage/paymentContent/paymentContent';
@@ -70,6 +71,11 @@ const DocumentsPage = () => {
       route: 'offer',
       name: 'Договор оферты',
       content: <OfferContent />,
+    },
+    {
+      route: 'delivery',
+      name: 'Доставка товара',
+      content: <DeliveryContent />,
     },
   ];
 
