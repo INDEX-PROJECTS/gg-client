@@ -62,6 +62,14 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
       });
   };
 
+  const paymentAlfaBank = () => {
+    setRedirect(true);
+    clearBasket();
+    window.location.replace(
+      `https://payment.alfabank.ru/payment/constructor/prepay.html?login=r-guru_servis&logo=1&def={"name":"amount","value":"${totalPrice}","title":"guru-servis.ru"}&currency[]=RUB`,
+    );
+  };
+
   return (
     <Dialog
       onOpenChange={() => {
@@ -191,7 +199,7 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
                 type="submit"
                 className="w-[304px] uppercase max-[450px]:w-full"
                 disabled={!terms}
-                onClick={() => DOMAIN_NAME === 'trast-servis.online' && paymentYooKassa()}
+                onClick={() => (DOMAIN_NAME === 'trast-servis.online' ? paymentYooKassa() : paymentAlfaBank())}
               >
                 Оформить заказ
               </Button>
