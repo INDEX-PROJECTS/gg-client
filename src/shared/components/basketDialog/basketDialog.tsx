@@ -190,9 +190,9 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
           <DialogFooter>
             {!basketItems.length ? (
               <DialogClose asChild>
-                <Button type="submit" className="w-[304px] uppercase max-[450px]:w-full" asChild>
-                  <Link href="/">На главную</Link>
-                </Button>
+                <Link href="/">
+                  <Button className="w-[304px] uppercase max-[450px]:w-full">На главную</Button>
+                </Link>
               </DialogClose>
             ) : ENABLED_PAYMENT === 'true' ? (
               <Button
