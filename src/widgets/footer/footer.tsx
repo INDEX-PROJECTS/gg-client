@@ -42,11 +42,11 @@ const Footer = () => {
               </div>
             </div>
             <div className="flex flex-col gap-[4px]">
-              <h4 className="t-xs text-backdrop">Адресс офиса</h4>
+              <h4 className="t-xs text-backdrop">Адрес офиса</h4>
               <h3 className="t2 max-w-[500px]">г. Челябинск, ул. Автодорожная 3, помещение 20</h3>
             </div>
             <div className="flex flex-col gap-[4px]">
-              <h4 className="t-xs text-backdrop">Адресс склада</h4>
+              <h4 className="t-xs text-backdrop">Адрес склада</h4>
               <h3 className="t2 max-w-[500px]">г. Челябинск, ул. Автодорожная 3</h3>
             </div>
           </div>

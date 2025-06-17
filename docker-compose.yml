@@ -6,7 +6,7 @@ services:
     tty: true
     restart: always
     ports:
-      - "5050:3000"
+      - '5050:3000'
     build:
       context: .
       dockerfile: Dockerfile

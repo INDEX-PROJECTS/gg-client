@@ -21,11 +21,11 @@
 
   html,
   body {
-    @apply font-ruda scroll-smooth;
+    @apply scroll-smooth font-ruda;
   }
 
   body {
-    @apply flex flex-col w-full min-h-screen;
+    @apply flex min-h-screen w-full flex-col;
   }
 
   .gradient {
