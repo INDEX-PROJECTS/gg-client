@@ -62,12 +62,19 @@ const BasketDialog = ({ triggerButton }: BasketDialogProps) => {
       });
   };
 
-  const paymentAlfaBank = () => {
-    setRedirect(true);
-    clearBasket();
-    window.location.replace(
-      `https://payment.alfabank.ru/payment/constructor/prepay.html?login=r-guru_servis&logo=1&def={"name":"amount","value":"${totalPrice}","title":"guru-servis.ru"}&currency[]=RUB`,
-    );
+  const paymentAlfaBank = async () => {
+    await axios
+      .post(PAYMENT_LINK, {
+        amount: totalPrice,
+      })
+      .then(response => {
+        setRedirect(true);
+        clearBasket();
+        window.location.replace(response.data.paymentUrl);
+      })
+      .catch(() => {
+        alert('Что-то пошло не так! Повторите попытку позже.');
+      });
   };
 
   return (
