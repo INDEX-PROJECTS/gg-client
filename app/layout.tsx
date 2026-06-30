@@ -14,6 +14,7 @@ const ruda = Ruda({
 export const metadata: Metadata = {
   title: 'ГУРУ ГРУПП',
   description: 'Профессиональное и промышленное оборудование.',
+  robots: { index: false, follow: false },
 };
 
 export default function RootLayout({
